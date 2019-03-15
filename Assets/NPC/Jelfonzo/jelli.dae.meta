@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: 60e58bf6748e9ee47aef3f281ff2b7f8
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: arm1_L
+    100002: arm1_R
+    100004: arm2_L
+    100006: arm2_R
+    100008: arm3_L
+    100010: arm3_R
+    100012: arm4_L
+    100014: arm4_R
+    100016: arm5_L
+    100018: arm5_R
+    100020: arm6_L
+    100022: arm6_R
+    100024: arm7_L
+    100026: arm7_R
+    100028: Brain_low__M_Brain
+    100030: eye_L
+    100032: Eye_low__M_Eye
+    100034: eye_R
+    100036: hat
+    100038: Hat_low__M_Hat
+    100040: head
+    100042: head2
+    100044: hip
+    100046: //RootNode
+    100048: leg1_L1
+    100050: leg1_L2
+    100052: leg1_L3
+    100054: leg1_L4
+    100056: leg1_R1
+    100058: leg1_R2
+    100060: leg1_R3
+    100062: leg1_R4
+    100064: leg2_L1
+    100066: leg2_L2
+    100068: leg2_L4
+    100070: leg2_lL3
+    100072: leg2_R1
+    100074: leg2_R2
+    100076: leg2_R3
+    100078: leg2_R4
+    100080: leg3_L1
+    100082: leg3_L2
+    100084: leg3_L3
+    100086: leg3_L4
+    100088: leg3_R1
+    100090: leg3_R2
+    100092: leg3_R3
+    100094: leg3_R4
+    100096: root
+    100098: Skin_low__M_Skin
+    100100: skl_root
+    100102: spine
+    100104: spine2
+    100106: tie
+    100108: Tie_low__M_Tie
+    100110: Tshirt_low__M_TShirts
+    400000: arm1_L
+    400002: arm1_R
+    400004: arm2_L
+    400006: arm2_R
+    400008: arm3_L
+    400010: arm3_R
+    400012: arm4_L
+    400014: arm4_R
+    400016: arm5_L
+    400018: arm5_R
+    400020: arm6_L
+    400022: arm6_R
+    400024: arm7_L
+    400026: arm7_R
+    400028: Brain_low__M_Brain
+    400030: eye_L
+    400032: Eye_low__M_Eye
+    400034: eye_R
+    400036: hat
+    400038: Hat_low__M_Hat
+    400040: head
+    400042: head2
+    400044: hip
+    400046: //RootNode
+    400048: leg1_L1
+    400050: leg1_L2
+    400052: leg1_L3
+    400054: leg1_L4
+    400056: leg1_R1
+    400058: leg1_R2
+    400060: leg1_R3
+    400062: leg1_R4
+    400064: leg2_L1
+    400066: leg2_L2
+    400068: leg2_L4
+    400070: leg2_lL3
+    400072: leg2_R1
+    400074: leg2_R2
+    400076: leg2_R3
+    400078: leg2_R4
+    400080: leg3_L1
+    400082: leg3_L2
+    400084: leg3_L3
+    400086: leg3_L4
+    400088: leg3_R1
+    400090: leg3_R2
+    400092: leg3_R3
+    400094: leg3_R4
+    400096: root
+    400098: Skin_low__M_Skin
+    400100: skl_root
+    400102: spine
+    400104: spine2
+    400106: tie
+    400108: Tie_low__M_Tie
+    400110: Tshirt_low__M_TShirts
+    2100000: VisualMaterial0
+    2100002: VisualMaterial1
+    2100004: VisualMaterial2
+    2100006: VisualMaterial3
+    2100008: VisualMaterial4
+    2100010: VisualMaterial5
+    2300000: Brain_low__M_Brain
+    2300002: Eye_low__M_Eye
+    2300004: Hat_low__M_Hat
+    2300006: Skin_low__M_Skin
+    2300008: Tie_low__M_Tie
+    2300010: Tshirt_low__M_TShirts
+    3300000: Brain_low__M_Brain
+    3300002: Eye_low__M_Eye
+    3300004: Hat_low__M_Hat
+    3300006: Skin_low__M_Skin
+    3300008: Tie_low__M_Tie
+    3300010: Tshirt_low__M_TShirts
+    4300000: Brain_low__M_Brain
+    4300002: Eye_low__M_Eye
+    4300004: Hat_low__M_Hat
+    4300006: Skin_low__M_Skin
+    4300008: Tie_low__M_Tie
+    4300010: Tshirt_low__M_TShirts
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: 6166ef3e9eb9f6d4bb861aa153b9a6b4
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: arm1_L
+    100002: arm1_R
+    100004: arm2_L
+    100006: arm2_R
+    100008: arm3_L
+    100010: arm3_R
+    100012: arm4_L
+    100014: arm4_R
+    100016: arm5_L
+    100018: arm5_R
+    100020: arm6_L
+    100022: arm6_R
+    100024: arm7_L
+    100026: arm7_L_end
+    100028: arm7_R
+    100030: arm7_R_end
+    100032: Brain_low__M_Brain
+    100034: Brain_low__M_Brain_end
+    100036: eye_L
+    100038: eye_L_end
+    100040: Eye_low__M_Eye
+    100042: Eye_low__M_Eye_end
+    100044: eye_R
+    100046: eye_R_end
+    100048: hat
+    100050: hat_end
+    100052: Hat_low__M_Hat
+    100054: Hat_low__M_Hat_end
+    100056: head
+    100058: head2
+    100060: hip
+    100062: jelli
+    100064: //RootNode
+    100066: jelli_skeleton
+    100068: leg1_L1
+    100070: leg1_L2
+    100072: leg1_L3
+    100074: leg1_L4
+    100076: leg1_R1
+    100078: leg1_R2
+    100080: leg1_R3
+    100082: leg1_R4
+    100084: leg2_L1
+    100086: leg2_L2
+    100088: leg2_L4
+    100090: leg2_lL3
+    100092: leg2_R1
+    100094: leg2_R2
+    100096: leg2_R3
+    100098: leg2_R4
+    100100: leg3_L1
+    100102: leg3_L1_end
+    100104: leg3_L2
+    100106: leg3_L2_end
+    100108: leg3_L3
+    100110: leg3_L3_end
+    100112: leg3_L4
+    100114: leg3_L4_end
+    100116: leg3_R1
+    100118: leg3_R1_end
+    100120: leg3_R2
+    100122: leg3_R2_end
+    100124: leg3_R3
+    100126: leg3_R3_end
+    100128: leg3_R4
+    100130: leg3_R4_end
+    100132: root
+    100134: Skin_low__M_Skin
+    100136: Skin_low__M_Skin_end
+    100138: skl_root
+    100140: spine
+    100142: spine2
+    100144: tie
+    100146: tie_end
+    100148: Tie_low__M_Tie
+    100150: Tie_low__M_Tie_end
+    100152: Tshirt_low__M_TShirts
+    100154: Tshirt_low__M_TShirts_end
+    400000: arm1_L
+    400002: arm1_R
+    400004: arm2_L
+    400006: arm2_R
+    400008: arm3_L
+    400010: arm3_R
+    400012: arm4_L
+    400014: arm4_R
+    400016: arm5_L
+    400018: arm5_R
+    400020: arm6_L
+    400022: arm6_R
+    400024: arm7_L
+    400026: arm7_L_end
+    400028: arm7_R
+    400030: arm7_R_end
+    400032: Brain_low__M_Brain
+    400034: Brain_low__M_Brain_end
+    400036: eye_L
+    400038: eye_L_end
+    400040: Eye_low__M_Eye
+    400042: Eye_low__M_Eye_end
+    400044: eye_R
+    400046: eye_R_end
+    400048: hat
+    400050: hat_end
+    400052: Hat_low__M_Hat
+    400054: Hat_low__M_Hat_end
+    400056: head
+    400058: head2
+    400060: hip
+    400062: //RootNode
+    400064: jelli
+    400066: jelli_skeleton
+    400068: leg1_L1
+    400070: leg1_L2
+    400072: leg1_L3
+    400074: leg1_L4
+    400076: leg1_R1
+    400078: leg1_R2
+    400080: leg1_R3
+    400082: leg1_R4
+    400084: leg2_L1
+    400086: leg2_L2
+    400088: leg2_L4
+    400090: leg2_lL3
+    400092: leg2_R1
+    400094: leg2_R2
+    400096: leg2_R3
+    400098: leg2_R4
+    400100: leg3_L1
+    400102: leg3_L1_end
+    400104: leg3_L2
+    400106: leg3_L2_end
+    400108: leg3_L3
+    400110: leg3_L3_end
+    400112: leg3_L4
+    400114: leg3_L4_end
+    400116: leg3_R1
+    400118: leg3_R1_end
+    400120: leg3_R2
+    400122: leg3_R2_end
+    400124: leg3_R3
+    400126: leg3_R3_end
+    400128: leg3_R4
+    400130: leg3_R4_end
+    400132: root
+    400134: Skin_low__M_Skin
+    400136: Skin_low__M_Skin_end
+    400138: skl_root
+    400140: spine
+    400142: spine2
+    400144: tie
+    400146: tie_end
+    400148: Tie_low__M_Tie
+    400150: Tie_low__M_Tie_end
+    400152: Tshirt_low__M_TShirts
+    400154: Tshirt_low__M_TShirts_end
+    2100000: M_Brain_Alb.png
+    2100002: M_Eye_Alb.0.png
+    2100004: M_Hat
+    2100006: M_Skin_Alb.png
+    2100008: M_Tie
+    2100010: M_TShirts
+    4300000: jelli
+    7400000: Jelfonzo Wait
+    9500000: //RootNode
+    13700000: jelli
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Brain_Alb.png
+    second: {fileID: 2100000, guid: 08deb48d5b2a976499bd26d2776fb916, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Eye_Alb.0.png
+    second: {fileID: 2100000, guid: 718557e5d909cd94f8cfeedee4c5c500, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Hat
+    second: {fileID: 2100000, guid: 6182db2e43712654c9a0feeae21a4ee5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Skin_Alb.png
+    second: {fileID: 2100000, guid: 9c69ee42f3aa1da40a0ac25a7c490744, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_TShirts
+    second: {fileID: 2100000, guid: e5133ed4669144a48a0b5f46189b36c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Tie
+    second: {fileID: 2100000, guid: 3ffdd01c96eb43f4dbd70bf0df592312, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Jelfonzo Wait
+      takeName: jelli_skeleton|wait
+      firstFrame: 0
+      lastFrame: 240
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

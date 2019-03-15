@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: ba1027c4577b7284f89a200dc6e74298
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Body
+    100004: Chest
+    100006: //RootNode
+    100008: EarL
+    100010: EarR
+    100012: Eye_L
+    100014: Eye_R
+    100016: Head
+    100018: Hips
+    100020: IndexFinger1_L
+    100022: IndexFinger1_R
+    100024: IndexFinger2_L
+    100026: IndexFinger2_R
+    100028: Left_ankle
+    100030: Left_arm
+    100032: Left_elbow
+    100034: Left_knee
+    100036: Left_leg
+    100038: Left_leg_2
+    100040: Left_shoulder
+    100042: Left_wrist
+    100044: LeftEye
+    100046: LittleFinger1_L
+    100048: LittleFinger1_R
+    100050: LittleFinger2_L
+    100052: LittleFinger2_R
+    100054: Mask
+    100056: MiddleFinger1_L
+    100058: MiddleFinger1_R
+    100060: MiddleFinger2_L
+    100062: MiddleFinger2_R
+    100064: Neck
+    100066: Right_ankle
+    100068: Right_arm
+    100070: Right_elbow
+    100072: Right_knee
+    100074: Right_leg
+    100076: Right_leg_2
+    100078: Right_shoulder
+    100080: Right_wrist
+    100082: RightEye
+    100084: RingFinger1_L
+    100086: RingFinger1_R
+    100088: RingFinger2_L
+    100090: RingFinger2_R
+    100092: Spine
+    100094: TeethDOWN
+    100096: TeethUP
+    100098: Thumb0_L
+    100100: Thumb0_R
+    100102: Thumb1_L
+    100104: Thumb1_R
+    100106: Thumb2_L
+    100108: Thumb2_R
+    400000: Armature
+    400002: Body
+    400004: Chest
+    400006: //RootNode
+    400008: EarL
+    400010: EarR
+    400012: Eye_L
+    400014: Eye_R
+    400016: Head
+    400018: Hips
+    400020: IndexFinger1_L
+    400022: IndexFinger1_R
+    400024: IndexFinger2_L
+    400026: IndexFinger2_R
+    400028: Left_ankle
+    400030: Left_arm
+    400032: Left_elbow
+    400034: Left_knee
+    400036: Left_leg
+    400038: Left_leg_2
+    400040: Left_shoulder
+    400042: Left_wrist
+    400044: LeftEye
+    400046: LittleFinger1_L
+    400048: LittleFinger1_R
+    400050: LittleFinger2_L
+    400052: LittleFinger2_R
+    400054: Mask
+    400056: MiddleFinger1_L
+    400058: MiddleFinger1_R
+    400060: MiddleFinger2_L
+    400062: MiddleFinger2_R
+    400064: Neck
+    400066: Right_ankle
+    400068: Right_arm
+    400070: Right_elbow
+    400072: Right_knee
+    400074: Right_leg
+    400076: Right_leg_2
+    400078: Right_shoulder
+    400080: Right_wrist
+    400082: RightEye
+    400084: RingFinger1_L
+    400086: RingFinger1_R
+    400088: RingFinger2_L
+    400090: RingFinger2_R
+    400092: Spine
+    400094: TeethDOWN
+    400096: TeethUP
+    400098: Thumb0_L
+    400100: Thumb0_R
+    400102: Thumb1_L
+    400104: Thumb1_R
+    400106: Thumb2_L
+    400108: Thumb2_R
+    2100000: White__slicked_back_M_png
+    2100002: Head__M_Body_Ml_png
+    2100004: Torso__m_body_albout_png
+    2100006: Arms__arm_png
+    2100008: Eyes2__M_Eyelid_Mlta_png
+    2100010: Mask
+    2100012: HL
+    2100014: TeethDown__M_TeamColor_png
+    2100016: Pupil__eye_png
+    2100018: EyeBrows__brow_png
+    2100020: M_PRK004_Stripes__Blue_png
+    2100022: M_Btm_011__baggy_png
+    2100024: cream__NoriBL_png
+    2100026: M_body__Painter_png
+    4300000: Body
+    4300002: Mask
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: Body
+    13700002: Mask
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

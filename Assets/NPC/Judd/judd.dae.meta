@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: 762afe6cece7d86488231c26eff5151e
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: arm1_L
+    100002: arm1_R
+    100004: arm2_L
+    100006: arm2_R
+    100008: Body__M_Eye
+    100010: Body__M_Judge
+    100012: cheek1_L
+    100014: cheek1_R
+    100016: cheek2_L
+    100018: cheek2_R
+    100020: Cushion__M_Cushion
+    100022: Cushion_low__M_CushionF
+    100024: ear_L
+    100026: ear_R
+    100028: fat1
+    100030: fat2
+    100032: finger1_L
+    100034: finger1_R
+    100036: finger2_L
+    100038: finger2_R
+    100040: finger3_L
+    100042: finger3_R
+    100044: foot_L
+    100046: foot_R
+    100048: Fur__M_Fur
+    100050: hand_L
+    100052: hand_R
+    100054: head
+    100056: hip
+    100058: jaw
+    100060: //RootNode
+    100062: leg1_L
+    100064: leg1_R
+    100066: leg2_L
+    100068: leg2_R
+    100070: Npc_Judge_Flag__M_Flag
+    100072: root
+    100074: skl_root
+    100076: spine1
+    100078: Tag_low__M_Cushion
+    100080: Tag_low__M_CushionF
+    100082: tail1
+    100084: tail2
+    100086: tail3
+    100088: tail4
+    100090: uppe_rlip_L
+    100092: uppe_rlip_R
+    100094: z_cheek_L
+    100096: z_cheek_R
+    100098: z_head
+    400000: arm1_L
+    400002: arm1_R
+    400004: arm2_L
+    400006: arm2_R
+    400008: Body__M_Eye
+    400010: Body__M_Judge
+    400012: cheek1_L
+    400014: cheek1_R
+    400016: cheek2_L
+    400018: cheek2_R
+    400020: Cushion__M_Cushion
+    400022: Cushion_low__M_CushionF
+    400024: ear_L
+    400026: ear_R
+    400028: fat1
+    400030: fat2
+    400032: finger1_L
+    400034: finger1_R
+    400036: finger2_L
+    400038: finger2_R
+    400040: finger3_L
+    400042: finger3_R
+    400044: foot_L
+    400046: foot_R
+    400048: Fur__M_Fur
+    400050: hand_L
+    400052: hand_R
+    400054: head
+    400056: hip
+    400058: jaw
+    400060: //RootNode
+    400062: leg1_L
+    400064: leg1_R
+    400066: leg2_L
+    400068: leg2_R
+    400070: Npc_Judge_Flag__M_Flag
+    400072: root
+    400074: skl_root
+    400076: spine1
+    400078: Tag_low__M_Cushion
+    400080: Tag_low__M_CushionF
+    400082: tail1
+    400084: tail2
+    400086: tail3
+    400088: tail4
+    400090: uppe_rlip_L
+    400092: uppe_rlip_R
+    400094: z_cheek_L
+    400096: z_cheek_R
+    400098: z_head
+    2100000: VisualMaterial0
+    2100002: VisualMaterial1
+    2100004: VisualMaterial2
+    2100006: VisualMaterial3
+    2100008: VisualMaterial4
+    2100010: VisualMaterial5
+    2100012: VisualMaterial6
+    2100014: VisualMaterial7
+    2300000: Body__M_Eye
+    2300002: Body__M_Judge
+    2300004: Cushion__M_Cushion
+    2300006: Cushion_low__M_CushionF
+    2300008: Fur__M_Fur
+    2300010: Npc_Judge_Flag__M_Flag
+    2300012: Tag_low__M_Cushion
+    2300014: Tag_low__M_CushionF
+    3300000: Body__M_Eye
+    3300002: Body__M_Judge
+    3300004: Cushion__M_Cushion
+    3300006: Cushion_low__M_CushionF
+    3300008: Fur__M_Fur
+    3300010: Npc_Judge_Flag__M_Flag
+    3300012: Tag_low__M_Cushion
+    3300014: Tag_low__M_CushionF
+    4300000: Body__M_Eye
+    4300002: Body__M_Judge
+    4300004: Fur__M_Fur
+    4300006: Cushion__M_Cushion
+    4300008: Tag_low__M_Cushion
+    4300010: Cushion_low__M_CushionF
+    4300012: Tag_low__M_CushionF
+    4300014: Npc_Judge_Flag__M_Flag
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

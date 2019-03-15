@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 8122742c5ae125f40b3691640e0b9f33
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bip_FrontT_0200
+    100004: Bip_Hair1_L_0200
+    100006: Bip_Hair1_R_0200
+    100008: Bip_Hair2_L_0200
+    100010: Bip_Hair2_R_0200
+    100012: Bip_Hair3_L_0200
+    100014: Bip_Hair3_R_0200
+    100016: Bip_Hair4_L_0200
+    100018: Bip_Hair4_R_0200
+    100020: Bip_Nape1_0200
+    100022: Bip_Nape2_0200
+    100024: Body
+    100026: Chest
+    100028: EarL
+    100030: EarR
+    100032: Eye_L
+    100034: Eye_R
+    100036: Head
+    100038: Hips
+    100040: IndexFinger1_L
+    100042: IndexFinger1_R
+    100044: IndexFinger2_L
+    100046: IndexFinger2_R
+    100048: Left_ankle
+    100050: Left_arm
+    100052: Left_elbow
+    100054: Left_knee
+    100056: Left_leg
+    100058: Left_shoulder
+    100060: Left_wrist
+    100062: LeftEye
+    100064: LittleFinger1_L
+    100066: LittleFinger1_R
+    100068: LittleFinger2_L
+    100070: LittleFinger2_R
+    100072: MiddleFinger1_L
+    100074: MiddleFinger1_R
+    100076: MiddleFinger2_L
+    100078: MiddleFinger2_R
+    100080: Neck
+    100082: //RootNode
+    100084: Right_ankle
+    100086: Right_arm
+    100088: Right_elbow
+    100090: Right_knee
+    100092: Right_leg
+    100094: Right_shoulder
+    100096: Right_wrist
+    100098: RightEye
+    100100: RingFinger1_L
+    100102: RingFinger1_R
+    100104: RingFinger2_L
+    100106: RingFinger2_R
+    100108: Spine
+    100110: TeethDOWN
+    100112: TeethUP
+    100114: Thumb0_L
+    100116: Thumb0_R
+    100118: Thumb1_L
+    100120: Thumb1_R
+    100122: Thumb2_L
+    100124: Thumb2_R
+    400000: Armature
+    400002: Bip_FrontT_0200
+    400004: Bip_Hair1_L_0200
+    400006: Bip_Hair1_R_0200
+    400008: Bip_Hair2_L_0200
+    400010: Bip_Hair2_R_0200
+    400012: Bip_Hair3_L_0200
+    400014: Bip_Hair3_R_0200
+    400016: Bip_Hair4_L_0200
+    400018: Bip_Hair4_R_0200
+    400020: Bip_Nape1_0200
+    400022: Bip_Nape2_0200
+    400024: Body
+    400026: Chest
+    400028: EarL
+    400030: EarR
+    400032: Eye_L
+    400034: Eye_R
+    400036: Head
+    400038: Hips
+    400040: IndexFinger1_L
+    400042: IndexFinger1_R
+    400044: IndexFinger2_L
+    400046: IndexFinger2_R
+    400048: Left_ankle
+    400050: Left_arm
+    400052: Left_elbow
+    400054: Left_knee
+    400056: Left_leg
+    400058: Left_shoulder
+    400060: Left_wrist
+    400062: LeftEye
+    400064: LittleFinger1_L
+    400066: LittleFinger1_R
+    400068: LittleFinger2_L
+    400070: LittleFinger2_R
+    400072: MiddleFinger1_L
+    400074: MiddleFinger1_R
+    400076: MiddleFinger2_L
+    400078: MiddleFinger2_R
+    400080: Neck
+    400082: //RootNode
+    400084: Right_ankle
+    400086: Right_arm
+    400088: Right_elbow
+    400090: Right_knee
+    400092: Right_leg
+    400094: Right_shoulder
+    400096: Right_wrist
+    400098: RightEye
+    400100: RingFinger1_L
+    400102: RingFinger1_R
+    400104: RingFinger2_L
+    400106: RingFinger2_R
+    400108: Spine
+    400110: TeethDOWN
+    400112: TeethUP
+    400114: Thumb0_L
+    400116: Thumb0_R
+    400118: Thumb1_L
+    400120: Thumb1_R
+    400122: Thumb2_L
+    400124: Thumb2_R
+    2100000: Body__m_body_albout_png
+    2100002: Eye__eye_png
+    2100004: Wristbands
+    2100006: Clothes
+    2100008: Body__M_Body_Ml_png
+    2100010: Body__arm_png
+    2100012: Clothes__cloth_png
+    2100014: Detail__brow_png
+    2100016: Body__M_Eyelid_Mlta_png
+    2100018: Detail
+    2100020: Detail__M_TeamColor_png
+    2100022: Hair__OctoCurl_F_png
+    4300000: Body
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: Body
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

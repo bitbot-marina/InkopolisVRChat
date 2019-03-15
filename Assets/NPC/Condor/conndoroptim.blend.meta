@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: 10fba26e9b22baf4595579fea05715bc
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Body
+    100004: Chest
+    100006: //RootNode
+    100008: EarL
+    100010: EarR
+    100012: Eye_L
+    100014: Eye_R
+    100016: Head
+    100018: Hips
+    100020: IndexFinger1_L
+    100022: IndexFinger1_R
+    100024: IndexFinger2_L
+    100026: IndexFinger2_R
+    100028: Left_ankle
+    100030: Left_arm
+    100032: Left_elbow
+    100034: Left_knee
+    100036: Left_leg
+    100038: Left_leg_2
+    100040: Left_shoulder
+    100042: Left_wrist
+    100044: LeftEye
+    100046: LittleFinger1_L
+    100048: LittleFinger1_R
+    100050: LittleFinger2_L
+    100052: LittleFinger2_R
+    100054: Mask
+    100056: MiddleFinger1_L
+    100058: MiddleFinger1_R
+    100060: MiddleFinger2_L
+    100062: MiddleFinger2_R
+    100064: Neck
+    100066: Right_ankle
+    100068: Right_arm
+    100070: Right_elbow
+    100072: Right_knee
+    100074: Right_leg
+    100076: Right_leg_2
+    100078: Right_shoulder
+    100080: Right_wrist
+    100082: RightEye
+    100084: RingFinger1_L
+    100086: RingFinger1_R
+    100088: RingFinger2_L
+    100090: RingFinger2_R
+    100092: Spine
+    100094: TeethDOWN
+    100096: TeethUP
+    100098: Thumb0_L
+    100100: Thumb0_R
+    100102: Thumb1_L
+    100104: Thumb1_R
+    100106: Thumb2_L
+    100108: Thumb2_R
+    100110: M_body
+    100112: Gas_Mask
+    400000: Armature
+    400002: Body
+    400004: Chest
+    400006: //RootNode
+    400008: EarL
+    400010: EarR
+    400012: Eye_L
+    400014: Eye_R
+    400016: Head
+    400018: Hips
+    400020: IndexFinger1_L
+    400022: IndexFinger1_R
+    400024: IndexFinger2_L
+    400026: IndexFinger2_R
+    400028: Left_ankle
+    400030: Left_arm
+    400032: Left_elbow
+    400034: Left_knee
+    400036: Left_leg
+    400038: Left_leg_2
+    400040: Left_shoulder
+    400042: Left_wrist
+    400044: LeftEye
+    400046: LittleFinger1_L
+    400048: LittleFinger1_R
+    400050: LittleFinger2_L
+    400052: LittleFinger2_R
+    400054: Mask
+    400056: MiddleFinger1_L
+    400058: MiddleFinger1_R
+    400060: MiddleFinger2_L
+    400062: MiddleFinger2_R
+    400064: Neck
+    400066: Right_ankle
+    400068: Right_arm
+    400070: Right_elbow
+    400072: Right_knee
+    400074: Right_leg
+    400076: Right_leg_2
+    400078: Right_shoulder
+    400080: Right_wrist
+    400082: RightEye
+    400084: RingFinger1_L
+    400086: RingFinger1_R
+    400088: RingFinger2_L
+    400090: RingFinger2_R
+    400092: Spine
+    400094: TeethDOWN
+    400096: TeethUP
+    400098: Thumb0_L
+    400100: Thumb0_R
+    400102: Thumb1_L
+    400104: Thumb1_R
+    400106: Thumb2_L
+    400108: Thumb2_R
+    400110: M_body
+    400112: Gas_Mask
+    2100000: White__slicked_back_M_png
+    2100002: combined_material_584094465__M_Body_Ml_png
+    2100004: combined_material_584094465__m_body_albout_png
+    2100006: combined_material_584094465__arm_png
+    2100008: combined_material_584094465__M_Eyelid_Mlta_png
+    2100010: combined_material_584094465
+    2100012: combined_material_584094465__M_TeamColor_png
+    2100014: Pupil__eye_png
+    2100016: combined_material_584094465__brow_png
+    2100018: M_PRK004_Stripes__Blue_png
+    2100020: M_Btm_011__baggy_png
+    2100022: cream__NoriBL_png
+    2100024: M_body__Painter_png
+    4300000: Body
+    4300002: Mask
+    4300004: M_body
+    4300006: Gas_Mask
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: Body
+    13700002: Mask
+    13700004: M_body
+    13700006: Gas_Mask
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Btm_011__baggy_png
+    second: {fileID: 2100000, guid: 46b6d591f413c9643966a149ef863040, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_PRK004_Stripes__Blue_png
+    second: {fileID: 2100000, guid: 60584ac87edb6914a94d0ad954d5f40f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_body__Painter_png
+    second: {fileID: 2100000, guid: c6f69e13e98e8e54c8f7d7f91312a875, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pupil__eye_png
+    second: {fileID: 2100000, guid: a65a9a170d8dada448fb3af40d3cc7f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White__slicked_back_M_png
+    second: {fileID: 2100000, guid: 6f091ac36420195428073a18687b6705, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: combined_material_584094465
+    second: {fileID: 2100000, guid: 8d62bae58e57f19448c2d3e6c7f8a42d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: combined_material_584094465__M_Body_Ml_png
+    second: {fileID: 2100000, guid: e4e9dbde17ad2c74cb46db5890678728, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: combined_material_584094465__M_Eyelid_Mlta_png
+    second: {fileID: 2100000, guid: c314c06ee864ade4f8ef281de994551b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: combined_material_584094465__M_TeamColor_png
+    second: {fileID: 2100000, guid: 1935da65177b32d48b32fd0943bbfb0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: combined_material_584094465__arm_png
+    second: {fileID: 2100000, guid: 66b952a948b470845a25664b826a3e67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: combined_material_584094465__brow_png
+    second: {fileID: 2100000, guid: e47111f992dcd0b46bfb9a2a6dda2134, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: combined_material_584094465__m_body_albout_png
+    second: {fileID: 2100000, guid: 3ff15ce1a04062444ad88e2dfc401106, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cream__NoriBL_png
+    second: {fileID: 2100000, guid: 0e054831d5b456f4cb848b0cc4747ee0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

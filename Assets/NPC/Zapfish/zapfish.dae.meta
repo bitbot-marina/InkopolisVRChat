@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: 1adbb7a82a6d41b47a6fd20e8c19bf9e
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: body01
+    100002: body02
+    100004: body03
+    100006: body04
+    100008: body05
+    100010: body06
+    100012: body07
+    100014: body08
+    100016: body09
+    100018: body10
+    100020: body11
+    100022: cheek_L
+    100024: cheek_R
+    100026: head
+    100028: Locater_Namazu
+    100030: mustache1_L
+    100032: mustache1_R
+    100034: mustache2_L
+    100036: mustache2_R
+    100038: mustache3_L
+    100040: mustache3_R
+    100042: mustache4_L
+    100044: mustache4_R
+    100046: pCylinder1__M_BigNamazuParts
+    100048: pectoral1_L
+    100050: pectoral1_R
+    100052: pectoral2_L
+    100054: pectoral2_R
+    100056: polySurface146__M_BigNamazuTailFin
+    100058: polySurface158__M_BigNamazuMouth
+    100060: polySurface195__M_BigMustache
+    100062: polySurface205__M_BigNamazuParts
+    100064: polySurface218__M_BigNamazuBelly
+    100066: polySurface218__M_BigNamazuBody
+    100068: polySurface218__M_BigNamazuSideBelly
+    100070: polySurface219__M_BigNamazuSeal
+    100072: polySurface220__M_BigNamazuSeal
+    100074: pPlane7__M_BigNamazuDorsalFin
+    100076: root
+    100078: tail
+    100080: tail_Down
+    100082: tail_Up
+    100084: Z_head
+    100086: //RootNode
+    400000: body01
+    400002: body02
+    400004: body03
+    400006: body04
+    400008: body05
+    400010: body06
+    400012: body07
+    400014: body08
+    400016: body09
+    400018: body10
+    400020: body11
+    400022: cheek_L
+    400024: cheek_R
+    400026: head
+    400028: Locater_Namazu
+    400030: mustache1_L
+    400032: mustache1_R
+    400034: mustache2_L
+    400036: mustache2_R
+    400038: mustache3_L
+    400040: mustache3_R
+    400042: mustache4_L
+    400044: mustache4_R
+    400046: pCylinder1__M_BigNamazuParts
+    400048: pectoral1_L
+    400050: pectoral1_R
+    400052: pectoral2_L
+    400054: pectoral2_R
+    400056: polySurface146__M_BigNamazuTailFin
+    400058: polySurface158__M_BigNamazuMouth
+    400060: polySurface195__M_BigMustache
+    400062: polySurface205__M_BigNamazuParts
+    400064: polySurface218__M_BigNamazuBelly
+    400066: polySurface218__M_BigNamazuBody
+    400068: polySurface218__M_BigNamazuSideBelly
+    400070: polySurface219__M_BigNamazuSeal
+    400072: polySurface220__M_BigNamazuSeal
+    400074: pPlane7__M_BigNamazuDorsalFin
+    400076: root
+    400078: tail
+    400080: tail_Down
+    400082: tail_Up
+    400084: Z_head
+    400086: //RootNode
+    2100000: VisualMaterial0
+    2100002: VisualMaterial1
+    2100004: VisualMaterial2
+    2100006: VisualMaterial3
+    2100008: VisualMaterial4
+    2100010: VisualMaterial5
+    2100012: VisualMaterial6
+    2100014: VisualMaterial7
+    2100016: VisualMaterial8
+    2100018: VisualMaterial9
+    2100020: VisualMaterial10
+    2300000: pCylinder1__M_BigNamazuParts
+    2300002: polySurface146__M_BigNamazuTailFin
+    2300004: polySurface158__M_BigNamazuMouth
+    2300006: polySurface195__M_BigMustache
+    2300008: polySurface205__M_BigNamazuParts
+    2300010: polySurface218__M_BigNamazuBelly
+    2300012: polySurface218__M_BigNamazuBody
+    2300014: polySurface218__M_BigNamazuSideBelly
+    2300016: polySurface219__M_BigNamazuSeal
+    2300018: polySurface220__M_BigNamazuSeal
+    2300020: pPlane7__M_BigNamazuDorsalFin
+    3300000: pCylinder1__M_BigNamazuParts
+    3300002: polySurface146__M_BigNamazuTailFin
+    3300004: polySurface158__M_BigNamazuMouth
+    3300006: polySurface195__M_BigMustache
+    3300008: polySurface205__M_BigNamazuParts
+    3300010: polySurface218__M_BigNamazuBelly
+    3300012: polySurface218__M_BigNamazuBody
+    3300014: polySurface218__M_BigNamazuSideBelly
+    3300016: polySurface219__M_BigNamazuSeal
+    3300018: polySurface220__M_BigNamazuSeal
+    3300020: pPlane7__M_BigNamazuDorsalFin
+    4300000: pCylinder1__M_BigNamazuParts
+    4300002: pPlane7__M_BigNamazuDorsalFin
+    4300004: polySurface146__M_BigNamazuTailFin
+    4300006: polySurface158__M_BigNamazuMouth
+    4300008: polySurface195__M_BigMustache
+    4300010: polySurface205__M_BigNamazuParts
+    4300012: polySurface218__M_BigNamazuBelly
+    4300014: polySurface218__M_BigNamazuBody
+    4300016: polySurface218__M_BigNamazuSideBelly
+    4300018: polySurface219__M_BigNamazuSeal
+    4300020: polySurface220__M_BigNamazuSeal
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VisualMaterial0
+    second: {fileID: 2100000, guid: b6e85f5f035c28a44bfc1b70c317d84d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VisualMaterial1
+    second: {fileID: 2100000, guid: e35080afba9c739478935a3e9006b7af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VisualMaterial10
+    second: {fileID: 2100000, guid: d85950d620996f64db440dbf9eab649f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VisualMaterial2
+    second: {fileID: 2100000, guid: b3ff4713769073647a5ada03749d4bd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VisualMaterial3
+    second: {fileID: 2100000, guid: 475ae0602e739da4fa9af87d801ff64c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VisualMaterial4
+    second: {fileID: 2100000, guid: cca232edf0ad938429b60d3685cf167e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VisualMaterial5
+    second: {fileID: 2100000, guid: b9403a67dfe2d11418ae262bba43ced9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VisualMaterial6
+    second: {fileID: 2100000, guid: 7d1d9f565b6faec4fb0e2a03eb94be9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VisualMaterial7
+    second: {fileID: 2100000, guid: ba1ddce3d6093f54ebe2f8287233d04d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VisualMaterial8
+    second: {fileID: 2100000, guid: 34cd80b8be2ee1d4c8fa1195625ae411, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VisualMaterial9
+    second: {fileID: 2100000, guid: 25ea7d028dca2b242a12351d7d6d29a6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

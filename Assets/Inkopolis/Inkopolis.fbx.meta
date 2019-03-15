@@ -1,0 +1,3561 @@
+fileFormatVersion: 2
+guid: 8fdaabbfbdf8ae4459268840313ef0a5
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Alley
+    100002: Alley Fence
+    100004: Amiibo
+    100006: Amiibo Case
+    100008: Apartment
+    100010: Apartment Alley
+    100012: Arcade
+    100014: Arcade Dance Game
+    100016: Arcade Door Left
+    100018: Arcade Door Right
+    100020: Arcade Ika Radio
+    100022: Arcade Machine (Googie Gang)
+    100024: Arcade Machine (Jet Set Radio)
+    100026: Arcade Machine (Squid Sisters)
+    100028: Arcade Machine (Ultra Cloyster)
+    100030: Arcade Sign Off
+    100032: Arcade Sign On
+    100034: Armature (Skybox Day)
+    100036: Armature (Skybox Night)
+    100038: Background Buildings A
+    100040: Background Buildings B
+    100042: Background Buildings C
+    100044: Background Buildings D
+    100046: Background Buildings E
+    100048: Background Buildings F
+    100050: Background Buildings G
+    100052: Bridge
+    100054: Bushes and Grass
+    100056: Chair A
+    100058: Chair B
+    100060: Chair C
+    100062: Chair D
+    100064: Chair E
+    100066: Chair F
+    100068: Chair G
+    100070: Chair H
+    100072: Chair I
+    100074: Chair J
+    100076: Chair K
+    100078: City Wires
+    100080: Clothing Shop Door
+    100082: Coffee Shop
+    100084: Construction
+    100086: Food Truck
+    100088: Food Truck (Walkthrough)
+    100090: Graffiti Splatpost Arcade
+    100092: Graffiti Splatpost Construction
+    100094: Graffiti Splatpost Grizzco A
+    100096: Graffiti Splatpost Grizzco B
+    100098: Graffiti Splatpost Grizzco C
+    100100: Graffiti Splatpost Studio A
+    100102: Graffiti Splatpost Studio B
+    100104: Graffiti Splatpost Studio C
+    100106: Grizzco
+    100108: Ground Asphalt Dark
+    100110: Ground Asphalt Med
+    100112: Ground Sidewalks
+    100114: //RootNode
+    100116: Main Street
+    100118: Main Street (No Shadow)
+    100120: Main TV
+    100122: Manhole
+    100124: Metro Station
+    100126: Monorail (Walkthrough)
+    100128: Monorail Train (Walkthrough)
+    100130: Puddles (Walkthrough)
+    100132: Scrolling Sign
+    100134: Shoe Shop Door Left
+    100136: Shoe Shop Door Right
+    100138: Shops
+    100140: Shops Selfie Board
+    100142: Shops TV
+    100144: Signal Cables (Walkthrough)
+    100146: Skybox
+    100148: Skybox (Night)
+    100150: Stage
+    100152: Stage Set
+    100154: Stage Speakers Center
+    100156: Stage Speakers Left
+    100158: Stage Speakers Right
+    100160: Studio
+    100162: Studio Pearl Chair
+    100164: Studio Turntable
+    100166: Sun
+    100168: Sun 1
+    100170: Sun_end
+    100172: Tower
+    100174: Tower Lobby Door Left
+    100176: Tower Lobby Door Right
+    100178: Tower Lobby Panel Left
+    100180: Tower Lobby Panel Right
+    100182: Tower Splash TV Screen
+    100184: Tower TV Main Screen
+    100186: VR_SkyDayPlaza
+    100188: VR_SkyNight00
+    100190: VR_SkyNight00_end
+    100192: Weapon Shop Door Left
+    100194: Weapon Shop Door Right
+    100196: Weapon Shop Roller
+    100198: World Base Plane
+    100200: Armature (Sea Snails)
+    100202: Case Snails
+    100204: case4
+    100206: group17
+    100208: group22
+    100210: group24
+    100212: group24_end
+    100214: Obj_PlazaTurbanshell
+    100216: pHelix79
+    100218: pHelix79_end
+    100220: pHelix80
+    100222: pHelix80_end
+    100224: pHelix81
+    100226: pHelix81_end
+    100228: polySurface12009
+    100230: polySurface12009_end
+    100232: polySurface12010
+    100234: polySurface12010_end
+    100236: polySurface12011
+    100238: polySurface12011_end
+    100240: polySurface12012
+    100242: polySurface12012_end
+    100244: ShellDead
+    100246: SuperTurbanShell10
+    100248: SuperTurbanShell10_end
+    100250: SuperTurbanShell13
+    100252: SuperTurbanShell13_end
+    100254: Studio Pearl Chair (Recording)
+    100256: Studio Turntable (Recording)
+    100258: Apartment Alley.001
+    100260: Background Buildings A.001
+    100262: Background Buildings A.002
+    100264: Background Buildings A.003
+    100266: Background Buildings B.001
+    100268: Background Buildings B.002
+    100270: Background Buildings B.003
+    100272: Background Buildings B.004
+    100274: Background Buildings B.005
+    100276: Background Buildings B.006
+    100278: Background Buildings B.007
+    100280: Background Buildings C.001
+    100282: Background Buildings C.002
+    100284: Background Buildings C.003
+    100286: Background Buildings C.004
+    100288: Background Buildings C.005
+    100290: Background Buildings C.006
+    100292: Background Buildings C.007
+    100294: Background Buildings D.001
+    100296: Background Buildings D.002
+    100298: Background Buildings D.003
+    100300: Background Buildings D.004
+    100302: Background Buildings D.005
+    100304: Background Buildings D.006
+    100306: Background Buildings E.001
+    100308: Background Buildings E.002
+    100310: Background Buildings E.003
+    100312: Background Buildings F.001
+    100314: Background Buildings F.002
+    100316: Background Buildings F.003
+    100318: Background Buildings F.004
+    100320: Background Buildings F.005
+    100322: Background Buildings F.006
+    100324: Background Buildings G.001
+    100326: Background Buildings G.002
+    100328: Background Buildings G.003
+    100330: Background Buildings G.004
+    100332: Background Buildings G.005
+    100334: World Base Plane.001
+    100336: World Base Plane.002
+    100338: World Base Plane.003
+    100340: World Base Plane.004
+    100342: World Base Plane.005
+    100344: World Base Plane.006
+    100346: World Base Plane.007
+    100348: Alley.001
+    100350: Alley.002
+    100352: Alley.003
+    100354: Alley.004
+    100356: Alley.005
+    100358: Alley.006
+    100360: Alley.007
+    100362: Alley.008
+    100364: Alley.009
+    100366: Alley.010
+    100368: Alley.011
+    100370: Alley.012
+    100372: Alley.013
+    100374: Alley.014
+    100376: Alley.015
+    100378: Alley.016
+    100380: Alley.017
+    100382: Alley.018
+    100384: Alley.019
+    100386: Alley.020
+    100388: Alley.021
+    100390: Alley.022
+    100392: Alley.023
+    100394: Alley.024
+    100396: Alley.025
+    100398: Alley.026
+    100400: Alley.027
+    100402: Alley.028
+    100404: Alley.029
+    100406: Alley.030
+    100408: Alley.031
+    100410: Apartment Alley.002
+    100412: Apartment Alley.003
+    100414: Apartment Alley.004
+    100416: Apartment Alley.005
+    100418: Apartment Alley.006
+    100420: Apartment Alley.007
+    100422: Apartment Alley.008
+    100424: Apartment Alley.009
+    100426: Apartment Alley.010
+    100428: Apartment Alley.011
+    100430: Apartment Alley.012
+    100432: Apartment Alley.013
+    100434: Apartment.001
+    100436: Apartment.002
+    100438: Apartment.003
+    100440: Apartment.004
+    100442: Apartment.005
+    100444: Apartment.006
+    100446: Apartment.007
+    100448: Apartment.008
+    100450: Apartment.009
+    100452: Apartment.010
+    100454: Apartment.011
+    100456: Apartment.012
+    100458: Apartment.013
+    100460: Apartment.014
+    100462: Apartment.015
+    100464: Apartment.016
+    100466: Apartment.017
+    100468: Apartment.018
+    100470: Apartment.019
+    100472: Arcade.001
+    100474: Arcade.002
+    100476: Arcade.003
+    100478: Arcade.004
+    100480: Arcade.005
+    100482: Arcade.006
+    100484: Arcade.007
+    100486: Arcade.008
+    100488: Arcade.009
+    100490: Arcade.010
+    100492: Arcade.011
+    100494: Arcade.012
+    100496: Arcade.013
+    100498: Arcade.014
+    100500: Arcade.015
+    100502: Arcade.016
+    100504: Arcade.017
+    100506: Arcade.018
+    100508: Arcade.019
+    100510: Arcade.020
+    100512: Arcade.021
+    100514: Arcade.022
+    100516: Arcade.023
+    100518: Arcade.024
+    100520: Arcade.025
+    100522: Arcade.026
+    100524: Coffee Shop.001
+    100526: Coffee Shop.002
+    100528: Coffee Shop.003
+    100530: Coffee Shop.004
+    100532: Coffee Shop.005
+    100534: Coffee Shop.006
+    100536: Coffee Shop.007
+    100538: Coffee Shop.008
+    100540: Coffee Shop.009
+    100542: Coffee Shop.010
+    100544: Coffee Shop.011
+    100546: Coffee Shop.012
+    100548: Coffee Shop.013
+    100550: Coffee Shop.014
+    100552: Coffee Shop.015
+    100554: Coffee Shop.016
+    100556: Construction.001
+    100558: Construction.002
+    100560: Construction.003
+    100562: Construction.004
+    100564: Construction.005
+    100566: Construction.006
+    100568: Construction.007
+    100570: Construction.008
+    100572: Construction.009
+    100574: Construction.010
+    100576: Construction.011
+    100578: Construction.012
+    100580: Construction.013
+    100582: Construction.014
+    100584: Construction.015
+    100586: Construction.016
+    100588: Construction.017
+    100590: Construction.018
+    100592: Construction.019
+    100594: Construction.020
+    100596: Construction.021
+    100598: Construction.022
+    100600: Construction.023
+    100602: Construction.024
+    100604: Construction.025
+    100606: Construction.026
+    100608: Construction.027
+    100610: Construction.028
+    100612: Construction.029
+    100614: Construction.030
+    100616: Construction.031
+    100618: Construction.032
+    100620: Construction.033
+    100622: Construction.034
+    100624: Grizzco.001
+    100626: Grizzco.002
+    100628: Grizzco.003
+    100630: Grizzco.004
+    100632: Grizzco.005
+    100634: Grizzco.006
+    100636: Grizzco.007
+    100638: Grizzco.008
+    100640: Grizzco.009
+    100642: Grizzco.010
+    100644: Grizzco.011
+    100646: Grizzco.012
+    100648: Grizzco.013
+    100650: Grizzco.014
+    100652: Grizzco.015
+    100654: Grizzco.016
+    100656: Grizzco.017
+    100658: Grizzco.018
+    100660: Grizzco.019
+    100662: Grizzco.020
+    100664: Grizzco.021
+    100666: Grizzco.022
+    100668: Grizzco.023
+    100670: Grizzco.024
+    100672: Grizzco.025
+    100674: Grizzco.026
+    100676: Grizzco.027
+    100678: Grizzco.028
+    100680: Grizzco.029
+    100682: Grizzco.030
+    100684: Grizzco.031
+    100686: Grizzco.032
+    100688: Grizzco.033
+    100690: Grizzco.034
+    100692: Grizzco.035
+    100694: Grizzco.036
+    100696: Grizzco.037
+    100698: Grizzco.038
+    100700: Grizzco.039
+    100702: Main Street.001
+    100704: Main Street.002
+    100706: Main Street.003
+    100708: Main Street.004
+    100710: Main Street.005
+    100712: Main Street.006
+    100714: Main Street.007
+    100716: Main Street.008
+    100718: Main Street.009
+    100720: Main Street.010
+    100722: Main Street.011
+    100724: Main Street.012
+    100726: Main Street.013
+    100728: Main Street.014
+    100730: Main Street.015
+    100732: Main Street.016
+    100734: Main Street.017
+    100736: Main Street.018
+    100738: Main Street.019
+    100740: Main Street.020
+    100742: Metro Station.001
+    100744: Metro Station.002
+    100746: Metro Station.003
+    100748: Metro Station.004
+    100750: Metro Station.005
+    100752: Metro Station.006
+    100754: Metro Station.007
+    100756: Metro Station.008
+    100758: Metro Station.009
+    100760: Metro Station.010
+    100762: Metro Station.011
+    100764: Metro Station.012
+    100766: Metro Station.013
+    100768: Metro Station.014
+    100770: Metro Station.015
+    100772: Shops.001
+    100774: Shops.002
+    100776: Shops.003
+    100778: Shops.004
+    100780: Shops.005
+    100782: Shops.006
+    100784: Shops.007
+    100786: Shops.008
+    100788: Shops.009
+    100790: Shops.010
+    100792: Shops.011
+    100794: Shops.012
+    100796: Shops.013
+    100798: Shops.014
+    100800: Shops.015
+    100802: Shops.016
+    100804: Shops.017
+    100806: Shops.018
+    100808: Shops.019
+    100810: Shops.020
+    100812: Shops.021
+    100814: Shops.022
+    100816: Shops.023
+    100818: Shops.024
+    100820: Shops.025
+    100822: Shops.026
+    100824: Shops.027
+    100826: Shops.028
+    100828: Shops.029
+    100830: Shops.030
+    100832: Shops.031
+    100834: Shops.032
+    100836: Shops.033
+    100838: Shops.034
+    100840: Shops.035
+    100842: Shops.036
+    100844: Shops.037
+    100846: Studio.001
+    100848: Studio.002
+    100850: Studio.003
+    100852: Studio.004
+    100854: Studio.005
+    100856: Studio.006
+    100858: Studio.007
+    100860: Studio.008
+    100862: Studio.009
+    100864: Studio.010
+    100866: Studio.011
+    100868: Studio.012
+    100870: Studio.013
+    100872: Studio.014
+    100874: Studio.015
+    100876: Studio.016
+    100878: Studio.017
+    100880: Studio.018
+    100882: Studio.019
+    100884: Studio.020
+    100886: Studio.021
+    100888: Studio.022
+    100890: Studio.023
+    100892: Studio.024
+    100894: Studio.025
+    100896: Studio.026
+    100898: Tower.001
+    100900: Tower.002
+    100902: Tower.003
+    100904: Tower.004
+    100906: Tower.005
+    100908: Tower.006
+    100910: Tower.007
+    100912: Tower.008
+    100914: Tower.009
+    100916: Tower.010
+    100918: Tower.011
+    100920: Tower.012
+    100922: Tower.013
+    100924: Tower.014
+    100926: Tower.015
+    100928: Tower.016
+    100930: Tower.017
+    100932: Tower.018
+    100934: Tower.019
+    100936: Tower.020
+    100938: Tower.021
+    100940: Tower.022
+    100942: Tower.023
+    100944: Tower.024
+    100946: Tower.025
+    100948: Tower.026
+    100950: Tower.027
+    100952: Tower.028
+    100954: Tower.029
+    100956: Tower.030
+    100958: Background Buildings H
+    100960: Background Buildings I
+    100962: Background Buildings IkaTower
+    100964: Background Buildings J
+    100966: Background Buildings K
+    100968: Background Buildings L
+    400000: Alley
+    400002: Alley Fence
+    400004: Amiibo
+    400006: Amiibo Case
+    400008: Apartment
+    400010: Apartment Alley
+    400012: Arcade
+    400014: Arcade Dance Game
+    400016: Arcade Door Left
+    400018: Arcade Door Right
+    400020: Arcade Ika Radio
+    400022: Arcade Machine (Googie Gang)
+    400024: Arcade Machine (Jet Set Radio)
+    400026: Arcade Machine (Squid Sisters)
+    400028: Arcade Machine (Ultra Cloyster)
+    400030: Arcade Sign Off
+    400032: Arcade Sign On
+    400034: Armature (Skybox Day)
+    400036: Armature (Skybox Night)
+    400038: Background Buildings A
+    400040: Background Buildings B
+    400042: Background Buildings C
+    400044: Background Buildings D
+    400046: Background Buildings E
+    400048: Background Buildings F
+    400050: Background Buildings G
+    400052: Bridge
+    400054: Bushes and Grass
+    400056: Chair A
+    400058: Chair B
+    400060: Chair C
+    400062: Chair D
+    400064: Chair E
+    400066: Chair F
+    400068: Chair G
+    400070: Chair H
+    400072: Chair I
+    400074: Chair J
+    400076: Chair K
+    400078: City Wires
+    400080: Clothing Shop Door
+    400082: Coffee Shop
+    400084: Construction
+    400086: Food Truck
+    400088: Food Truck (Walkthrough)
+    400090: Graffiti Splatpost Arcade
+    400092: Graffiti Splatpost Construction
+    400094: Graffiti Splatpost Grizzco A
+    400096: Graffiti Splatpost Grizzco B
+    400098: Graffiti Splatpost Grizzco C
+    400100: Graffiti Splatpost Studio A
+    400102: Graffiti Splatpost Studio B
+    400104: Graffiti Splatpost Studio C
+    400106: Grizzco
+    400108: Ground Asphalt Dark
+    400110: Ground Asphalt Med
+    400112: Ground Sidewalks
+    400114: //RootNode
+    400116: Main Street
+    400118: Main Street (No Shadow)
+    400120: Main TV
+    400122: Manhole
+    400124: Metro Station
+    400126: Monorail (Walkthrough)
+    400128: Monorail Train (Walkthrough)
+    400130: Puddles (Walkthrough)
+    400132: Scrolling Sign
+    400134: Shoe Shop Door Left
+    400136: Shoe Shop Door Right
+    400138: Shops
+    400140: Shops Selfie Board
+    400142: Shops TV
+    400144: Signal Cables (Walkthrough)
+    400146: Skybox
+    400148: Skybox (Night)
+    400150: Stage
+    400152: Stage Set
+    400154: Stage Speakers Center
+    400156: Stage Speakers Left
+    400158: Stage Speakers Right
+    400160: Studio
+    400162: Studio Pearl Chair
+    400164: Studio Turntable
+    400166: Sun
+    400168: Sun 1
+    400170: Sun_end
+    400172: Tower
+    400174: Tower Lobby Door Left
+    400176: Tower Lobby Door Right
+    400178: Tower Lobby Panel Left
+    400180: Tower Lobby Panel Right
+    400182: Tower Splash TV Screen
+    400184: Tower TV Main Screen
+    400186: VR_SkyDayPlaza
+    400188: VR_SkyNight00
+    400190: VR_SkyNight00_end
+    400192: Weapon Shop Door Left
+    400194: Weapon Shop Door Right
+    400196: Weapon Shop Roller
+    400198: World Base Plane
+    400200: Armature (Sea Snails)
+    400202: Case Snails
+    400204: case4
+    400206: group17
+    400208: group22
+    400210: group24
+    400212: group24_end
+    400214: Obj_PlazaTurbanshell
+    400216: pHelix79
+    400218: pHelix79_end
+    400220: pHelix80
+    400222: pHelix80_end
+    400224: pHelix81
+    400226: pHelix81_end
+    400228: polySurface12009
+    400230: polySurface12009_end
+    400232: polySurface12010
+    400234: polySurface12010_end
+    400236: polySurface12011
+    400238: polySurface12011_end
+    400240: polySurface12012
+    400242: polySurface12012_end
+    400244: ShellDead
+    400246: SuperTurbanShell10
+    400248: SuperTurbanShell10_end
+    400250: SuperTurbanShell13
+    400252: SuperTurbanShell13_end
+    400254: Studio Pearl Chair (Recording)
+    400256: Studio Turntable (Recording)
+    400258: Apartment Alley.001
+    400260: Background Buildings A.001
+    400262: Background Buildings A.002
+    400264: Background Buildings A.003
+    400266: Background Buildings B.001
+    400268: Background Buildings B.002
+    400270: Background Buildings B.003
+    400272: Background Buildings B.004
+    400274: Background Buildings B.005
+    400276: Background Buildings B.006
+    400278: Background Buildings B.007
+    400280: Background Buildings C.001
+    400282: Background Buildings C.002
+    400284: Background Buildings C.003
+    400286: Background Buildings C.004
+    400288: Background Buildings C.005
+    400290: Background Buildings C.006
+    400292: Background Buildings C.007
+    400294: Background Buildings D.001
+    400296: Background Buildings D.002
+    400298: Background Buildings D.003
+    400300: Background Buildings D.004
+    400302: Background Buildings D.005
+    400304: Background Buildings D.006
+    400306: Background Buildings E.001
+    400308: Background Buildings E.002
+    400310: Background Buildings E.003
+    400312: Background Buildings F.001
+    400314: Background Buildings F.002
+    400316: Background Buildings F.003
+    400318: Background Buildings F.004
+    400320: Background Buildings F.005
+    400322: Background Buildings F.006
+    400324: Background Buildings G.001
+    400326: Background Buildings G.002
+    400328: Background Buildings G.003
+    400330: Background Buildings G.004
+    400332: Background Buildings G.005
+    400334: World Base Plane.001
+    400336: World Base Plane.002
+    400338: World Base Plane.003
+    400340: World Base Plane.004
+    400342: World Base Plane.005
+    400344: World Base Plane.006
+    400346: World Base Plane.007
+    400348: Alley.001
+    400350: Alley.002
+    400352: Alley.003
+    400354: Alley.004
+    400356: Alley.005
+    400358: Alley.006
+    400360: Alley.007
+    400362: Alley.008
+    400364: Alley.009
+    400366: Alley.010
+    400368: Alley.011
+    400370: Alley.012
+    400372: Alley.013
+    400374: Alley.014
+    400376: Alley.015
+    400378: Alley.016
+    400380: Alley.017
+    400382: Alley.018
+    400384: Alley.019
+    400386: Alley.020
+    400388: Alley.021
+    400390: Alley.022
+    400392: Alley.023
+    400394: Alley.024
+    400396: Alley.025
+    400398: Alley.026
+    400400: Alley.027
+    400402: Alley.028
+    400404: Alley.029
+    400406: Alley.030
+    400408: Alley.031
+    400410: Apartment Alley.002
+    400412: Apartment Alley.003
+    400414: Apartment Alley.004
+    400416: Apartment Alley.005
+    400418: Apartment Alley.006
+    400420: Apartment Alley.007
+    400422: Apartment Alley.008
+    400424: Apartment Alley.009
+    400426: Apartment Alley.010
+    400428: Apartment Alley.011
+    400430: Apartment Alley.012
+    400432: Apartment Alley.013
+    400434: Apartment.001
+    400436: Apartment.002
+    400438: Apartment.003
+    400440: Apartment.004
+    400442: Apartment.005
+    400444: Apartment.006
+    400446: Apartment.007
+    400448: Apartment.008
+    400450: Apartment.009
+    400452: Apartment.010
+    400454: Apartment.011
+    400456: Apartment.012
+    400458: Apartment.013
+    400460: Apartment.014
+    400462: Apartment.015
+    400464: Apartment.016
+    400466: Apartment.017
+    400468: Apartment.018
+    400470: Apartment.019
+    400472: Arcade.001
+    400474: Arcade.002
+    400476: Arcade.003
+    400478: Arcade.004
+    400480: Arcade.005
+    400482: Arcade.006
+    400484: Arcade.007
+    400486: Arcade.008
+    400488: Arcade.009
+    400490: Arcade.010
+    400492: Arcade.011
+    400494: Arcade.012
+    400496: Arcade.013
+    400498: Arcade.014
+    400500: Arcade.015
+    400502: Arcade.016
+    400504: Arcade.017
+    400506: Arcade.018
+    400508: Arcade.019
+    400510: Arcade.020
+    400512: Arcade.021
+    400514: Arcade.022
+    400516: Arcade.023
+    400518: Arcade.024
+    400520: Arcade.025
+    400522: Arcade.026
+    400524: Coffee Shop.001
+    400526: Coffee Shop.002
+    400528: Coffee Shop.003
+    400530: Coffee Shop.004
+    400532: Coffee Shop.005
+    400534: Coffee Shop.006
+    400536: Coffee Shop.007
+    400538: Coffee Shop.008
+    400540: Coffee Shop.009
+    400542: Coffee Shop.010
+    400544: Coffee Shop.011
+    400546: Coffee Shop.012
+    400548: Coffee Shop.013
+    400550: Coffee Shop.014
+    400552: Coffee Shop.015
+    400554: Coffee Shop.016
+    400556: Construction.001
+    400558: Construction.002
+    400560: Construction.003
+    400562: Construction.004
+    400564: Construction.005
+    400566: Construction.006
+    400568: Construction.007
+    400570: Construction.008
+    400572: Construction.009
+    400574: Construction.010
+    400576: Construction.011
+    400578: Construction.012
+    400580: Construction.013
+    400582: Construction.014
+    400584: Construction.015
+    400586: Construction.016
+    400588: Construction.017
+    400590: Construction.018
+    400592: Construction.019
+    400594: Construction.020
+    400596: Construction.021
+    400598: Construction.022
+    400600: Construction.023
+    400602: Construction.024
+    400604: Construction.025
+    400606: Construction.026
+    400608: Construction.027
+    400610: Construction.028
+    400612: Construction.029
+    400614: Construction.030
+    400616: Construction.031
+    400618: Construction.032
+    400620: Construction.033
+    400622: Construction.034
+    400624: Grizzco.001
+    400626: Grizzco.002
+    400628: Grizzco.003
+    400630: Grizzco.004
+    400632: Grizzco.005
+    400634: Grizzco.006
+    400636: Grizzco.007
+    400638: Grizzco.008
+    400640: Grizzco.009
+    400642: Grizzco.010
+    400644: Grizzco.011
+    400646: Grizzco.012
+    400648: Grizzco.013
+    400650: Grizzco.014
+    400652: Grizzco.015
+    400654: Grizzco.016
+    400656: Grizzco.017
+    400658: Grizzco.018
+    400660: Grizzco.019
+    400662: Grizzco.020
+    400664: Grizzco.021
+    400666: Grizzco.022
+    400668: Grizzco.023
+    400670: Grizzco.024
+    400672: Grizzco.025
+    400674: Grizzco.026
+    400676: Grizzco.027
+    400678: Grizzco.028
+    400680: Grizzco.029
+    400682: Grizzco.030
+    400684: Grizzco.031
+    400686: Grizzco.032
+    400688: Grizzco.033
+    400690: Grizzco.034
+    400692: Grizzco.035
+    400694: Grizzco.036
+    400696: Grizzco.037
+    400698: Grizzco.038
+    400700: Grizzco.039
+    400702: Main Street.001
+    400704: Main Street.002
+    400706: Main Street.003
+    400708: Main Street.004
+    400710: Main Street.005
+    400712: Main Street.006
+    400714: Main Street.007
+    400716: Main Street.008
+    400718: Main Street.009
+    400720: Main Street.010
+    400722: Main Street.011
+    400724: Main Street.012
+    400726: Main Street.013
+    400728: Main Street.014
+    400730: Main Street.015
+    400732: Main Street.016
+    400734: Main Street.017
+    400736: Main Street.018
+    400738: Main Street.019
+    400740: Main Street.020
+    400742: Metro Station.001
+    400744: Metro Station.002
+    400746: Metro Station.003
+    400748: Metro Station.004
+    400750: Metro Station.005
+    400752: Metro Station.006
+    400754: Metro Station.007
+    400756: Metro Station.008
+    400758: Metro Station.009
+    400760: Metro Station.010
+    400762: Metro Station.011
+    400764: Metro Station.012
+    400766: Metro Station.013
+    400768: Metro Station.014
+    400770: Metro Station.015
+    400772: Shops.001
+    400774: Shops.002
+    400776: Shops.003
+    400778: Shops.004
+    400780: Shops.005
+    400782: Shops.006
+    400784: Shops.007
+    400786: Shops.008
+    400788: Shops.009
+    400790: Shops.010
+    400792: Shops.011
+    400794: Shops.012
+    400796: Shops.013
+    400798: Shops.014
+    400800: Shops.015
+    400802: Shops.016
+    400804: Shops.017
+    400806: Shops.018
+    400808: Shops.019
+    400810: Shops.020
+    400812: Shops.021
+    400814: Shops.022
+    400816: Shops.023
+    400818: Shops.024
+    400820: Shops.025
+    400822: Shops.026
+    400824: Shops.027
+    400826: Shops.028
+    400828: Shops.029
+    400830: Shops.030
+    400832: Shops.031
+    400834: Shops.032
+    400836: Shops.033
+    400838: Shops.034
+    400840: Shops.035
+    400842: Shops.036
+    400844: Shops.037
+    400846: Studio.001
+    400848: Studio.002
+    400850: Studio.003
+    400852: Studio.004
+    400854: Studio.005
+    400856: Studio.006
+    400858: Studio.007
+    400860: Studio.008
+    400862: Studio.009
+    400864: Studio.010
+    400866: Studio.011
+    400868: Studio.012
+    400870: Studio.013
+    400872: Studio.014
+    400874: Studio.015
+    400876: Studio.016
+    400878: Studio.017
+    400880: Studio.018
+    400882: Studio.019
+    400884: Studio.020
+    400886: Studio.021
+    400888: Studio.022
+    400890: Studio.023
+    400892: Studio.024
+    400894: Studio.025
+    400896: Studio.026
+    400898: Tower.001
+    400900: Tower.002
+    400902: Tower.003
+    400904: Tower.004
+    400906: Tower.005
+    400908: Tower.006
+    400910: Tower.007
+    400912: Tower.008
+    400914: Tower.009
+    400916: Tower.010
+    400918: Tower.011
+    400920: Tower.012
+    400922: Tower.013
+    400924: Tower.014
+    400926: Tower.015
+    400928: Tower.016
+    400930: Tower.017
+    400932: Tower.018
+    400934: Tower.019
+    400936: Tower.020
+    400938: Tower.021
+    400940: Tower.022
+    400942: Tower.023
+    400944: Tower.024
+    400946: Tower.025
+    400948: Tower.026
+    400950: Tower.027
+    400952: Tower.028
+    400954: Tower.029
+    400956: Tower.030
+    400958: Background Buildings H
+    400960: Background Buildings I
+    400962: Background Buildings IkaTower
+    400964: Background Buildings J
+    400966: Background Buildings K
+    400968: Background Buildings L
+    2100000: Stage Set A
+    2100002: Stage Set B
+    2100004: Arcade Cabinet (Ultra Cloyster
+    2100006: Arcade Cabinet (Jet Set Radio)
+    2100008: Arcade Cabinet (Ultra Cloyster)
+    2100010: Arcade Cabinet (Googie Gang)
+    2100012: Spawn
+    2100014: Ground Paint
+    2100016: Dirt
+    2100018: Concrete Cracks
+    2100020: Splatfest Terminal
+    2100022: Food Truck
+    2100024: Glass
+    2100026: City Detail A
+    2100028: Curbs and Stuff
+    2100030: Arcade Sign Neon
+    2100032: Plaza Sign Off
+    2100034: Skybox Night
+    2100036: VRL_Sun
+    2100038: Skybox
+    2100040: Selfie Board
+    2100042: Alley Fence
+    2100044: Model001_Material015
+    2100046: Model001_Material052
+    2100048: Model001_Material064
+    2100050: Model001_Material056
+    2100052: Model001_Material105
+    2100054: Model001_Material075
+    2100056: Model001_Material063
+    2100058: Air Conditioners
+    2100060: Black Metal
+    2100062: Yellow Fences
+    2100064: Model001_Material124
+    2100066: Model001_Material086
+    2100068: Lobby Floor
+    2100070: Squidforce Sign
+    2100072: Buildings Light
+    2100074: Floor Mats
+    2100076: Post Details
+    2100078: Model001_Material044
+    2100080: Model001_Material055
+    2100082: City Details Black
+    2100084: Gray Concrete
+    2100086: Buildings Black
+    2100088: City Detail C
+    2100090: Poster Set A
+    2100092: City Detail B
+    2100094: Light Tiles
+    2100096: White Emmission Lights
+    2100098: Model001_Material071
+    2100100: PostarSetA
+    2100102: Black
+    2100104: Not Glass
+    2100106: Wood Floor
+    2100108: Wood Gray
+    2100110: Turtle
+    2100112: Brick
+    2100114: Concrete Light
+    2100116: Metal Shutter Dark
+    2100118: Model001_Material012
+    2100120: Model001_Material048
+    2100122: Model001_Material090
+    2100124: Model001_Material066
+    2100126: Model001_Material047
+    2100128: Weapon Shop Roller Light
+    2100130: Weapon Shop Roller
+    2100132: Metals and Chairs
+    2100134: Turtle Neck
+    2100136: Tables and Chairs
+    2100138: Model001_Material042
+    2100140: Monorail Fence
+    2100142: MonoRail
+    2100144: Ground Sidewalks Tiles
+    2100146: Background Buildings with Windows
+    2100148: Model001_Material031
+    2100150: Background Building Glass
+    2100152: Model001_Material016
+    2100154: Idol Poster
+    2100156: Background Buildings Glass
+    2100158: Tiles Light
+    2100160: Traffic Signals
+    2100162: Tree Details
+    2100164: Tree Trunks
+    2100166: Tree Leaves
+    2100168: Model001_Material094
+    2100170: Model001_Material039
+    2100172: Model001_Material022
+    2100174: Bike Set A
+    2100176: Bike Set B
+    2100178: Model001_Material024
+    2100180: Scrap Heaps
+    2100182: Crane Details
+    2100184: Crane
+    2100186: Asphalt Light
+    2100188: Model001_Material128
+    2100190: Model001_Material076
+    2100192: Studio Glass
+    2100194: Arcade Sign Back
+    2100196: Dark Gray Tiles
+    2100198: Model001_Material129
+    2100200: Model001_Material104
+    2100202: Bridge
+    2100204: Model001_Material108
+    2100206: Salmon Lights Orange
+    2100208: Salmon Lights Green
+    2100210: Model001_Material021
+    2100212: Model001_Material053
+    2100214: Glass Dark
+    2100216: Metal Shutter Light
+    2100218: Asphalt Dark
+    2100220: Asphalt Med
+    2100222: Turntable Cart
+    2100224: Turntable Console
+    2100226: Turntable Logo
+    2100228: Turntable
+    2100230: Pearl Chair
+    2100232: Lobby Panel Bottom
+    2100234: Lobby Panel Top
+    2100236: Tower Main Screen
+    2100238: M_Manhole
+    2100240: M_Sticker
+    2100242: M_Stone
+    2100244: GatewayWiremesh
+    2100246: Dots
+    2100248: Scrolling Sign
+    2100250: Splatfest Post Arcade
+    2100252: Ika Radio
+    2100254: Model001_Material118
+    2100256: Model001_Material119
+    2100258: Sidewalks
+    2100260: Stage Spotlights
+    2100262: Stage Edges
+    2100264: Stage Metalic Rim
+    2100266: Stage Floor
+    2100268: Stage Structure
+    2100270: Stage Color Lights
+    2100272: Stage Panel Lights
+    2100274: Speakers
+    2100276: Sheldon Door
+    2100278: Bushes and Grass
+    2100280: Model001_Material149
+    2100282: Model001_Material158
+    2100284: Model001_Material045
+    2100286: Coffee Shop Little Sign
+    2100288: Coffee Shop Large Sign
+    2100290: Splatpost Grizzco C
+    2100292: Splatpost Grizzco B
+    2100294: Apartment Display
+    2100296: Model001_Material073
+    2100298: Model001_Material027
+    2100300: Model001_Material010
+    2100302: Flag
+    2100304: Splash TV Screen
+    2100306: Jelly Fresh Door
+    2100308: Model001_Material161
+    2100310: Model001_Material162
+    2100312: Model001_Material178
+    2100314: Signs
+    2100316: Graffiti
+    2100318: Model001_Material025
+    2100320: Splatfest Terminal Sign
+    2100322: Splatfest Flyer
+    2100324: Splatpost Grizzco A
+    2100326: Model001_Material148
+    2100328: Splatpost Studio C
+    2100330: Dark Gray Metal Panel
+    2100332: Arcade Floor
+    2100334: KomonoPartsEmmA
+    2100336: Arcade Sign Metal
+    2100338: Arcade Flag
+    2100340: Origami Bird
+    2100342: Puddles
+    2100344: Splatpost Studio A
+    2100346: Splatpost Construction
+    2100348: Lobby Door
+    2100350: Shoe Shop Door
+    2100352: Model001_Material152
+    2100354: Model001_Material037
+    2100356: Arcade Door
+    2100358: Splatpost Studio B
+    2100360: World Plane
+    2100362: Model001_Material062
+    2100364: Dance Machine A
+    2100366: Dance Machine B
+    2100368: Dance Game Screen
+    2100370: Clothing Store Logo
+    2100372: Turbanshell00
+    2100374: Turbanshell00.003
+    2100376: case1.003
+    2100378: case1
+    2100380: case1.001
+    2100382: case1.002
+    2100384: Turbanshell00.002
+    2100386: Turbanshell00.004
+    2100388: Turbanshell00.001
+    2100390: Turbanshell00.005
+    2100392: Cat Cushion
+    2100394: Sea Snails
+    2100396: Sea Snail Case
+    2100398: Stage Structure Top
+    2100400: Stage Structure Bottom
+    2300000: Alley
+    2300002: Alley Fence
+    2300004: Amiibo
+    2300006: Amiibo Case
+    2300008: Apartment
+    2300010: Apartment Alley
+    2300012: Arcade
+    2300014: Arcade Dance Game
+    2300016: Arcade Door Left
+    2300018: Arcade Door Right
+    2300020: Arcade Ika Radio
+    2300022: Arcade Machine (Googie Gang)
+    2300024: Arcade Machine (Jet Set Radio)
+    2300026: Arcade Machine (Squid Sisters)
+    2300028: Arcade Machine (Ultra Cloyster)
+    2300030: Arcade Sign Off
+    2300032: Arcade Sign On
+    2300034: Background Buildings A
+    2300036: Background Buildings B
+    2300038: Background Buildings C
+    2300040: Background Buildings D
+    2300042: Background Buildings E
+    2300044: Background Buildings F
+    2300046: Background Buildings G
+    2300048: Bridge
+    2300050: Bushes and Grass
+    2300052: Chair A
+    2300054: Chair B
+    2300056: Chair C
+    2300058: Chair D
+    2300060: Chair E
+    2300062: Chair F
+    2300064: Chair G
+    2300066: Chair H
+    2300068: Chair I
+    2300070: Chair J
+    2300072: Chair K
+    2300074: City Wires
+    2300076: Clothing Shop Door
+    2300078: Coffee Shop
+    2300080: Construction
+    2300082: Food Truck
+    2300084: Food Truck (Walkthrough)
+    2300086: Graffiti Splatpost Arcade
+    2300088: Graffiti Splatpost Construction
+    2300090: Graffiti Splatpost Grizzco A
+    2300092: Graffiti Splatpost Grizzco B
+    2300094: Graffiti Splatpost Grizzco C
+    2300096: Graffiti Splatpost Studio A
+    2300098: Graffiti Splatpost Studio B
+    2300100: Graffiti Splatpost Studio C
+    2300102: Grizzco
+    2300104: Ground Asphalt Dark
+    2300106: Ground Asphalt Med
+    2300108: Ground Sidewalks
+    2300110: Main Street
+    2300112: Main Street (No Shadow)
+    2300114: Main TV
+    2300116: Manhole
+    2300118: Metro Station
+    2300120: Monorail (Walkthrough)
+    2300122: Monorail Train (Walkthrough)
+    2300124: Puddles (Walkthrough)
+    2300126: Scrolling Sign
+    2300128: Shoe Shop Door Left
+    2300130: Shoe Shop Door Right
+    2300132: Shops
+    2300134: Shops Selfie Board
+    2300136: Shops TV
+    2300138: Signal Cables (Walkthrough)
+    2300140: Stage
+    2300142: Stage Set
+    2300144: Stage Speakers Center
+    2300146: Stage Speakers Left
+    2300148: Stage Speakers Right
+    2300150: Studio
+    2300152: Studio Pearl Chair
+    2300154: Studio Turntable
+    2300156: Tower
+    2300158: Tower Lobby Door Left
+    2300160: Tower Lobby Door Right
+    2300162: Tower Lobby Panel Left
+    2300164: Tower Lobby Panel Right
+    2300166: Tower Splash TV Screen
+    2300168: Tower TV Main Screen
+    2300170: Weapon Shop Door Left
+    2300172: Weapon Shop Door Right
+    2300174: Weapon Shop Roller
+    2300176: World Base Plane
+    2300178: Studio Pearl Chair (Recording)
+    2300180: Studio Turntable (Recording)
+    2300182: Apartment Alley.001
+    2300184: Background Buildings A.001
+    2300186: Background Buildings A.002
+    2300188: Background Buildings A.003
+    2300190: Background Buildings B.001
+    2300192: Background Buildings B.002
+    2300194: Background Buildings B.003
+    2300196: Background Buildings B.004
+    2300198: Background Buildings B.005
+    2300200: Background Buildings B.006
+    2300202: Background Buildings B.007
+    2300204: Background Buildings C.001
+    2300206: Background Buildings C.002
+    2300208: Background Buildings C.003
+    2300210: Background Buildings C.004
+    2300212: Background Buildings C.005
+    2300214: Background Buildings C.006
+    2300216: Background Buildings C.007
+    2300218: Background Buildings D.001
+    2300220: Background Buildings D.002
+    2300222: Background Buildings D.003
+    2300224: Background Buildings D.004
+    2300226: Background Buildings D.005
+    2300228: Background Buildings D.006
+    2300230: Background Buildings E.001
+    2300232: Background Buildings E.002
+    2300234: Background Buildings E.003
+    2300236: Background Buildings F.001
+    2300238: Background Buildings F.002
+    2300240: Background Buildings F.003
+    2300242: Background Buildings F.004
+    2300244: Background Buildings F.005
+    2300246: Background Buildings F.006
+    2300248: Background Buildings G.001
+    2300250: Background Buildings G.002
+    2300252: Background Buildings G.003
+    2300254: Background Buildings G.004
+    2300256: Background Buildings G.005
+    2300258: World Base Plane.001
+    2300260: World Base Plane.002
+    2300262: World Base Plane.003
+    2300264: World Base Plane.004
+    2300266: World Base Plane.005
+    2300268: World Base Plane.006
+    2300270: World Base Plane.007
+    2300272: Alley.001
+    2300274: Alley.002
+    2300276: Alley.003
+    2300278: Alley.004
+    2300280: Alley.005
+    2300282: Alley.006
+    2300284: Alley.007
+    2300286: Alley.008
+    2300288: Alley.009
+    2300290: Alley.010
+    2300292: Alley.011
+    2300294: Alley.012
+    2300296: Alley.013
+    2300298: Alley.014
+    2300300: Alley.015
+    2300302: Alley.016
+    2300304: Alley.017
+    2300306: Alley.018
+    2300308: Alley.019
+    2300310: Alley.020
+    2300312: Alley.021
+    2300314: Alley.022
+    2300316: Alley.023
+    2300318: Alley.024
+    2300320: Alley.025
+    2300322: Alley.026
+    2300324: Alley.027
+    2300326: Alley.028
+    2300328: Alley.029
+    2300330: Alley.030
+    2300332: Alley.031
+    2300334: Apartment Alley.002
+    2300336: Apartment Alley.003
+    2300338: Apartment Alley.004
+    2300340: Apartment Alley.005
+    2300342: Apartment Alley.006
+    2300344: Apartment Alley.007
+    2300346: Apartment Alley.008
+    2300348: Apartment Alley.009
+    2300350: Apartment Alley.010
+    2300352: Apartment Alley.011
+    2300354: Apartment Alley.012
+    2300356: Apartment Alley.013
+    2300358: Apartment.001
+    2300360: Apartment.002
+    2300362: Apartment.003
+    2300364: Apartment.004
+    2300366: Apartment.005
+    2300368: Apartment.006
+    2300370: Apartment.007
+    2300372: Apartment.008
+    2300374: Apartment.009
+    2300376: Apartment.010
+    2300378: Apartment.011
+    2300380: Apartment.012
+    2300382: Apartment.013
+    2300384: Apartment.014
+    2300386: Apartment.015
+    2300388: Apartment.016
+    2300390: Apartment.017
+    2300392: Apartment.018
+    2300394: Apartment.019
+    2300396: Arcade.001
+    2300398: Arcade.002
+    2300400: Arcade.003
+    2300402: Arcade.004
+    2300404: Arcade.005
+    2300406: Arcade.006
+    2300408: Arcade.007
+    2300410: Arcade.008
+    2300412: Arcade.009
+    2300414: Arcade.010
+    2300416: Arcade.011
+    2300418: Arcade.012
+    2300420: Arcade.013
+    2300422: Arcade.014
+    2300424: Arcade.015
+    2300426: Arcade.016
+    2300428: Arcade.017
+    2300430: Arcade.018
+    2300432: Arcade.019
+    2300434: Arcade.020
+    2300436: Arcade.021
+    2300438: Arcade.022
+    2300440: Arcade.023
+    2300442: Arcade.024
+    2300444: Arcade.025
+    2300446: Arcade.026
+    2300448: Coffee Shop.001
+    2300450: Coffee Shop.002
+    2300452: Coffee Shop.003
+    2300454: Coffee Shop.004
+    2300456: Coffee Shop.005
+    2300458: Coffee Shop.006
+    2300460: Coffee Shop.007
+    2300462: Coffee Shop.008
+    2300464: Coffee Shop.009
+    2300466: Coffee Shop.010
+    2300468: Coffee Shop.011
+    2300470: Coffee Shop.012
+    2300472: Coffee Shop.013
+    2300474: Coffee Shop.014
+    2300476: Coffee Shop.015
+    2300478: Coffee Shop.016
+    2300480: Construction.001
+    2300482: Construction.002
+    2300484: Construction.003
+    2300486: Construction.004
+    2300488: Construction.005
+    2300490: Construction.006
+    2300492: Construction.007
+    2300494: Construction.008
+    2300496: Construction.009
+    2300498: Construction.010
+    2300500: Construction.011
+    2300502: Construction.012
+    2300504: Construction.013
+    2300506: Construction.014
+    2300508: Construction.015
+    2300510: Construction.016
+    2300512: Construction.017
+    2300514: Construction.018
+    2300516: Construction.019
+    2300518: Construction.020
+    2300520: Construction.021
+    2300522: Construction.022
+    2300524: Construction.023
+    2300526: Construction.024
+    2300528: Construction.025
+    2300530: Construction.026
+    2300532: Construction.027
+    2300534: Construction.028
+    2300536: Construction.029
+    2300538: Construction.030
+    2300540: Construction.031
+    2300542: Construction.032
+    2300544: Construction.033
+    2300546: Construction.034
+    2300548: Grizzco.001
+    2300550: Grizzco.002
+    2300552: Grizzco.003
+    2300554: Grizzco.004
+    2300556: Grizzco.005
+    2300558: Grizzco.006
+    2300560: Grizzco.007
+    2300562: Grizzco.008
+    2300564: Grizzco.009
+    2300566: Grizzco.010
+    2300568: Grizzco.011
+    2300570: Grizzco.012
+    2300572: Grizzco.013
+    2300574: Grizzco.014
+    2300576: Grizzco.015
+    2300578: Grizzco.016
+    2300580: Grizzco.017
+    2300582: Grizzco.018
+    2300584: Grizzco.019
+    2300586: Grizzco.020
+    2300588: Grizzco.021
+    2300590: Grizzco.022
+    2300592: Grizzco.023
+    2300594: Grizzco.024
+    2300596: Grizzco.025
+    2300598: Grizzco.026
+    2300600: Grizzco.027
+    2300602: Grizzco.028
+    2300604: Grizzco.029
+    2300606: Grizzco.030
+    2300608: Grizzco.031
+    2300610: Grizzco.032
+    2300612: Grizzco.033
+    2300614: Grizzco.034
+    2300616: Grizzco.035
+    2300618: Grizzco.036
+    2300620: Grizzco.037
+    2300622: Grizzco.038
+    2300624: Grizzco.039
+    2300626: Main Street.001
+    2300628: Main Street.002
+    2300630: Main Street.003
+    2300632: Main Street.004
+    2300634: Main Street.005
+    2300636: Main Street.006
+    2300638: Main Street.007
+    2300640: Main Street.008
+    2300642: Main Street.009
+    2300644: Main Street.010
+    2300646: Main Street.011
+    2300648: Main Street.012
+    2300650: Main Street.013
+    2300652: Main Street.014
+    2300654: Main Street.015
+    2300656: Main Street.016
+    2300658: Main Street.017
+    2300660: Main Street.018
+    2300662: Main Street.019
+    2300664: Main Street.020
+    2300666: Metro Station.001
+    2300668: Metro Station.002
+    2300670: Metro Station.003
+    2300672: Metro Station.004
+    2300674: Metro Station.005
+    2300676: Metro Station.006
+    2300678: Metro Station.007
+    2300680: Metro Station.008
+    2300682: Metro Station.009
+    2300684: Metro Station.010
+    2300686: Metro Station.011
+    2300688: Metro Station.012
+    2300690: Metro Station.013
+    2300692: Metro Station.014
+    2300694: Metro Station.015
+    2300696: Shops.001
+    2300698: Shops.002
+    2300700: Shops.003
+    2300702: Shops.004
+    2300704: Shops.005
+    2300706: Shops.006
+    2300708: Shops.007
+    2300710: Shops.008
+    2300712: Shops.009
+    2300714: Shops.010
+    2300716: Shops.011
+    2300718: Shops.012
+    2300720: Shops.013
+    2300722: Shops.014
+    2300724: Shops.015
+    2300726: Shops.016
+    2300728: Shops.017
+    2300730: Shops.018
+    2300732: Shops.019
+    2300734: Shops.020
+    2300736: Shops.021
+    2300738: Shops.022
+    2300740: Shops.023
+    2300742: Shops.024
+    2300744: Shops.025
+    2300746: Shops.026
+    2300748: Shops.027
+    2300750: Shops.028
+    2300752: Shops.029
+    2300754: Shops.030
+    2300756: Shops.031
+    2300758: Shops.032
+    2300760: Shops.033
+    2300762: Shops.034
+    2300764: Shops.035
+    2300766: Shops.036
+    2300768: Shops.037
+    2300770: Studio.001
+    2300772: Studio.002
+    2300774: Studio.003
+    2300776: Studio.004
+    2300778: Studio.005
+    2300780: Studio.006
+    2300782: Studio.007
+    2300784: Studio.008
+    2300786: Studio.009
+    2300788: Studio.010
+    2300790: Studio.011
+    2300792: Studio.012
+    2300794: Studio.013
+    2300796: Studio.014
+    2300798: Studio.015
+    2300800: Studio.016
+    2300802: Studio.017
+    2300804: Studio.018
+    2300806: Studio.019
+    2300808: Studio.020
+    2300810: Studio.021
+    2300812: Studio.022
+    2300814: Studio.023
+    2300816: Studio.024
+    2300818: Studio.025
+    2300820: Studio.026
+    2300822: Tower.001
+    2300824: Tower.002
+    2300826: Tower.003
+    2300828: Tower.004
+    2300830: Tower.005
+    2300832: Tower.006
+    2300834: Tower.007
+    2300836: Tower.008
+    2300838: Tower.009
+    2300840: Tower.010
+    2300842: Tower.011
+    2300844: Tower.012
+    2300846: Tower.013
+    2300848: Tower.014
+    2300850: Tower.015
+    2300852: Tower.016
+    2300854: Tower.017
+    2300856: Tower.018
+    2300858: Tower.019
+    2300860: Tower.020
+    2300862: Tower.021
+    2300864: Tower.022
+    2300866: Tower.023
+    2300868: Tower.024
+    2300870: Tower.025
+    2300872: Tower.026
+    2300874: Tower.027
+    2300876: Tower.028
+    2300878: Tower.029
+    2300880: Tower.030
+    2300882: Background Buildings H
+    2300884: Background Buildings I
+    2300886: Background Buildings IkaTower
+    2300888: Background Buildings J
+    2300890: Background Buildings K
+    2300892: Background Buildings L
+    3300000: Alley
+    3300002: Alley Fence
+    3300004: Amiibo
+    3300006: Amiibo Case
+    3300008: Apartment
+    3300010: Apartment Alley
+    3300012: Arcade
+    3300014: Arcade Dance Game
+    3300016: Arcade Door Left
+    3300018: Arcade Door Right
+    3300020: Arcade Ika Radio
+    3300022: Arcade Machine (Googie Gang)
+    3300024: Arcade Machine (Jet Set Radio)
+    3300026: Arcade Machine (Squid Sisters)
+    3300028: Arcade Machine (Ultra Cloyster)
+    3300030: Arcade Sign Off
+    3300032: Arcade Sign On
+    3300034: Background Buildings A
+    3300036: Background Buildings B
+    3300038: Background Buildings C
+    3300040: Background Buildings D
+    3300042: Background Buildings E
+    3300044: Background Buildings F
+    3300046: Background Buildings G
+    3300048: Bridge
+    3300050: Bushes and Grass
+    3300052: Chair A
+    3300054: Chair B
+    3300056: Chair C
+    3300058: Chair D
+    3300060: Chair E
+    3300062: Chair F
+    3300064: Chair G
+    3300066: Chair H
+    3300068: Chair I
+    3300070: Chair J
+    3300072: Chair K
+    3300074: City Wires
+    3300076: Clothing Shop Door
+    3300078: Coffee Shop
+    3300080: Construction
+    3300082: Food Truck
+    3300084: Food Truck (Walkthrough)
+    3300086: Graffiti Splatpost Arcade
+    3300088: Graffiti Splatpost Construction
+    3300090: Graffiti Splatpost Grizzco A
+    3300092: Graffiti Splatpost Grizzco B
+    3300094: Graffiti Splatpost Grizzco C
+    3300096: Graffiti Splatpost Studio A
+    3300098: Graffiti Splatpost Studio B
+    3300100: Graffiti Splatpost Studio C
+    3300102: Grizzco
+    3300104: Ground Asphalt Dark
+    3300106: Ground Asphalt Med
+    3300108: Ground Sidewalks
+    3300110: Main Street
+    3300112: Main Street (No Shadow)
+    3300114: Main TV
+    3300116: Manhole
+    3300118: Metro Station
+    3300120: Monorail (Walkthrough)
+    3300122: Monorail Train (Walkthrough)
+    3300124: Puddles (Walkthrough)
+    3300126: Scrolling Sign
+    3300128: Shoe Shop Door Left
+    3300130: Shoe Shop Door Right
+    3300132: Shops
+    3300134: Shops Selfie Board
+    3300136: Shops TV
+    3300138: Signal Cables (Walkthrough)
+    3300140: Stage
+    3300142: Stage Set
+    3300144: Stage Speakers Center
+    3300146: Stage Speakers Left
+    3300148: Stage Speakers Right
+    3300150: Studio
+    3300152: Studio Pearl Chair
+    3300154: Studio Turntable
+    3300156: Tower
+    3300158: Tower Lobby Door Left
+    3300160: Tower Lobby Door Right
+    3300162: Tower Lobby Panel Left
+    3300164: Tower Lobby Panel Right
+    3300166: Tower Splash TV Screen
+    3300168: Tower TV Main Screen
+    3300170: Weapon Shop Door Left
+    3300172: Weapon Shop Door Right
+    3300174: Weapon Shop Roller
+    3300176: World Base Plane
+    3300178: Studio Pearl Chair (Recording)
+    3300180: Studio Turntable (Recording)
+    3300182: Apartment Alley.001
+    3300184: Background Buildings A.001
+    3300186: Background Buildings A.002
+    3300188: Background Buildings A.003
+    3300190: Background Buildings B.001
+    3300192: Background Buildings B.002
+    3300194: Background Buildings B.003
+    3300196: Background Buildings B.004
+    3300198: Background Buildings B.005
+    3300200: Background Buildings B.006
+    3300202: Background Buildings B.007
+    3300204: Background Buildings C.001
+    3300206: Background Buildings C.002
+    3300208: Background Buildings C.003
+    3300210: Background Buildings C.004
+    3300212: Background Buildings C.005
+    3300214: Background Buildings C.006
+    3300216: Background Buildings C.007
+    3300218: Background Buildings D.001
+    3300220: Background Buildings D.002
+    3300222: Background Buildings D.003
+    3300224: Background Buildings D.004
+    3300226: Background Buildings D.005
+    3300228: Background Buildings D.006
+    3300230: Background Buildings E.001
+    3300232: Background Buildings E.002
+    3300234: Background Buildings E.003
+    3300236: Background Buildings F.001
+    3300238: Background Buildings F.002
+    3300240: Background Buildings F.003
+    3300242: Background Buildings F.004
+    3300244: Background Buildings F.005
+    3300246: Background Buildings F.006
+    3300248: Background Buildings G.001
+    3300250: Background Buildings G.002
+    3300252: Background Buildings G.003
+    3300254: Background Buildings G.004
+    3300256: Background Buildings G.005
+    3300258: World Base Plane.001
+    3300260: World Base Plane.002
+    3300262: World Base Plane.003
+    3300264: World Base Plane.004
+    3300266: World Base Plane.005
+    3300268: World Base Plane.006
+    3300270: World Base Plane.007
+    3300272: Alley.001
+    3300274: Alley.002
+    3300276: Alley.003
+    3300278: Alley.004
+    3300280: Alley.005
+    3300282: Alley.006
+    3300284: Alley.007
+    3300286: Alley.008
+    3300288: Alley.009
+    3300290: Alley.010
+    3300292: Alley.011
+    3300294: Alley.012
+    3300296: Alley.013
+    3300298: Alley.014
+    3300300: Alley.015
+    3300302: Alley.016
+    3300304: Alley.017
+    3300306: Alley.018
+    3300308: Alley.019
+    3300310: Alley.020
+    3300312: Alley.021
+    3300314: Alley.022
+    3300316: Alley.023
+    3300318: Alley.024
+    3300320: Alley.025
+    3300322: Alley.026
+    3300324: Alley.027
+    3300326: Alley.028
+    3300328: Alley.029
+    3300330: Alley.030
+    3300332: Alley.031
+    3300334: Apartment Alley.002
+    3300336: Apartment Alley.003
+    3300338: Apartment Alley.004
+    3300340: Apartment Alley.005
+    3300342: Apartment Alley.006
+    3300344: Apartment Alley.007
+    3300346: Apartment Alley.008
+    3300348: Apartment Alley.009
+    3300350: Apartment Alley.010
+    3300352: Apartment Alley.011
+    3300354: Apartment Alley.012
+    3300356: Apartment Alley.013
+    3300358: Apartment.001
+    3300360: Apartment.002
+    3300362: Apartment.003
+    3300364: Apartment.004
+    3300366: Apartment.005
+    3300368: Apartment.006
+    3300370: Apartment.007
+    3300372: Apartment.008
+    3300374: Apartment.009
+    3300376: Apartment.010
+    3300378: Apartment.011
+    3300380: Apartment.012
+    3300382: Apartment.013
+    3300384: Apartment.014
+    3300386: Apartment.015
+    3300388: Apartment.016
+    3300390: Apartment.017
+    3300392: Apartment.018
+    3300394: Apartment.019
+    3300396: Arcade.001
+    3300398: Arcade.002
+    3300400: Arcade.003
+    3300402: Arcade.004
+    3300404: Arcade.005
+    3300406: Arcade.006
+    3300408: Arcade.007
+    3300410: Arcade.008
+    3300412: Arcade.009
+    3300414: Arcade.010
+    3300416: Arcade.011
+    3300418: Arcade.012
+    3300420: Arcade.013
+    3300422: Arcade.014
+    3300424: Arcade.015
+    3300426: Arcade.016
+    3300428: Arcade.017
+    3300430: Arcade.018
+    3300432: Arcade.019
+    3300434: Arcade.020
+    3300436: Arcade.021
+    3300438: Arcade.022
+    3300440: Arcade.023
+    3300442: Arcade.024
+    3300444: Arcade.025
+    3300446: Arcade.026
+    3300448: Coffee Shop.001
+    3300450: Coffee Shop.002
+    3300452: Coffee Shop.003
+    3300454: Coffee Shop.004
+    3300456: Coffee Shop.005
+    3300458: Coffee Shop.006
+    3300460: Coffee Shop.007
+    3300462: Coffee Shop.008
+    3300464: Coffee Shop.009
+    3300466: Coffee Shop.010
+    3300468: Coffee Shop.011
+    3300470: Coffee Shop.012
+    3300472: Coffee Shop.013
+    3300474: Coffee Shop.014
+    3300476: Coffee Shop.015
+    3300478: Coffee Shop.016
+    3300480: Construction.001
+    3300482: Construction.002
+    3300484: Construction.003
+    3300486: Construction.004
+    3300488: Construction.005
+    3300490: Construction.006
+    3300492: Construction.007
+    3300494: Construction.008
+    3300496: Construction.009
+    3300498: Construction.010
+    3300500: Construction.011
+    3300502: Construction.012
+    3300504: Construction.013
+    3300506: Construction.014
+    3300508: Construction.015
+    3300510: Construction.016
+    3300512: Construction.017
+    3300514: Construction.018
+    3300516: Construction.019
+    3300518: Construction.020
+    3300520: Construction.021
+    3300522: Construction.022
+    3300524: Construction.023
+    3300526: Construction.024
+    3300528: Construction.025
+    3300530: Construction.026
+    3300532: Construction.027
+    3300534: Construction.028
+    3300536: Construction.029
+    3300538: Construction.030
+    3300540: Construction.031
+    3300542: Construction.032
+    3300544: Construction.033
+    3300546: Construction.034
+    3300548: Grizzco.001
+    3300550: Grizzco.002
+    3300552: Grizzco.003
+    3300554: Grizzco.004
+    3300556: Grizzco.005
+    3300558: Grizzco.006
+    3300560: Grizzco.007
+    3300562: Grizzco.008
+    3300564: Grizzco.009
+    3300566: Grizzco.010
+    3300568: Grizzco.011
+    3300570: Grizzco.012
+    3300572: Grizzco.013
+    3300574: Grizzco.014
+    3300576: Grizzco.015
+    3300578: Grizzco.016
+    3300580: Grizzco.017
+    3300582: Grizzco.018
+    3300584: Grizzco.019
+    3300586: Grizzco.020
+    3300588: Grizzco.021
+    3300590: Grizzco.022
+    3300592: Grizzco.023
+    3300594: Grizzco.024
+    3300596: Grizzco.025
+    3300598: Grizzco.026
+    3300600: Grizzco.027
+    3300602: Grizzco.028
+    3300604: Grizzco.029
+    3300606: Grizzco.030
+    3300608: Grizzco.031
+    3300610: Grizzco.032
+    3300612: Grizzco.033
+    3300614: Grizzco.034
+    3300616: Grizzco.035
+    3300618: Grizzco.036
+    3300620: Grizzco.037
+    3300622: Grizzco.038
+    3300624: Grizzco.039
+    3300626: Main Street.001
+    3300628: Main Street.002
+    3300630: Main Street.003
+    3300632: Main Street.004
+    3300634: Main Street.005
+    3300636: Main Street.006
+    3300638: Main Street.007
+    3300640: Main Street.008
+    3300642: Main Street.009
+    3300644: Main Street.010
+    3300646: Main Street.011
+    3300648: Main Street.012
+    3300650: Main Street.013
+    3300652: Main Street.014
+    3300654: Main Street.015
+    3300656: Main Street.016
+    3300658: Main Street.017
+    3300660: Main Street.018
+    3300662: Main Street.019
+    3300664: Main Street.020
+    3300666: Metro Station.001
+    3300668: Metro Station.002
+    3300670: Metro Station.003
+    3300672: Metro Station.004
+    3300674: Metro Station.005
+    3300676: Metro Station.006
+    3300678: Metro Station.007
+    3300680: Metro Station.008
+    3300682: Metro Station.009
+    3300684: Metro Station.010
+    3300686: Metro Station.011
+    3300688: Metro Station.012
+    3300690: Metro Station.013
+    3300692: Metro Station.014
+    3300694: Metro Station.015
+    3300696: Shops.001
+    3300698: Shops.002
+    3300700: Shops.003
+    3300702: Shops.004
+    3300704: Shops.005
+    3300706: Shops.006
+    3300708: Shops.007
+    3300710: Shops.008
+    3300712: Shops.009
+    3300714: Shops.010
+    3300716: Shops.011
+    3300718: Shops.012
+    3300720: Shops.013
+    3300722: Shops.014
+    3300724: Shops.015
+    3300726: Shops.016
+    3300728: Shops.017
+    3300730: Shops.018
+    3300732: Shops.019
+    3300734: Shops.020
+    3300736: Shops.021
+    3300738: Shops.022
+    3300740: Shops.023
+    3300742: Shops.024
+    3300744: Shops.025
+    3300746: Shops.026
+    3300748: Shops.027
+    3300750: Shops.028
+    3300752: Shops.029
+    3300754: Shops.030
+    3300756: Shops.031
+    3300758: Shops.032
+    3300760: Shops.033
+    3300762: Shops.034
+    3300764: Shops.035
+    3300766: Shops.036
+    3300768: Shops.037
+    3300770: Studio.001
+    3300772: Studio.002
+    3300774: Studio.003
+    3300776: Studio.004
+    3300778: Studio.005
+    3300780: Studio.006
+    3300782: Studio.007
+    3300784: Studio.008
+    3300786: Studio.009
+    3300788: Studio.010
+    3300790: Studio.011
+    3300792: Studio.012
+    3300794: Studio.013
+    3300796: Studio.014
+    3300798: Studio.015
+    3300800: Studio.016
+    3300802: Studio.017
+    3300804: Studio.018
+    3300806: Studio.019
+    3300808: Studio.020
+    3300810: Studio.021
+    3300812: Studio.022
+    3300814: Studio.023
+    3300816: Studio.024
+    3300818: Studio.025
+    3300820: Studio.026
+    3300822: Tower.001
+    3300824: Tower.002
+    3300826: Tower.003
+    3300828: Tower.004
+    3300830: Tower.005
+    3300832: Tower.006
+    3300834: Tower.007
+    3300836: Tower.008
+    3300838: Tower.009
+    3300840: Tower.010
+    3300842: Tower.011
+    3300844: Tower.012
+    3300846: Tower.013
+    3300848: Tower.014
+    3300850: Tower.015
+    3300852: Tower.016
+    3300854: Tower.017
+    3300856: Tower.018
+    3300858: Tower.019
+    3300860: Tower.020
+    3300862: Tower.021
+    3300864: Tower.022
+    3300866: Tower.023
+    3300868: Tower.024
+    3300870: Tower.025
+    3300872: Tower.026
+    3300874: Tower.027
+    3300876: Tower.028
+    3300878: Tower.029
+    3300880: Tower.030
+    3300882: Background Buildings H
+    3300884: Background Buildings I
+    3300886: Background Buildings IkaTower
+    3300888: Background Buildings J
+    3300890: Background Buildings K
+    3300892: Background Buildings L
+    4300000: Stage Set
+    4300002: Arcade Machine (Ultra Cloyster)
+    4300004: Arcade Machine (Jet Set Radio)
+    4300006: Arcade Machine (Squid Sisters)
+    4300008: Arcade Machine (Googie Gang)
+    4300010: Main Street (No Shadow)
+    4300012: Food Truck (Walkthrough)
+    4300014: Arcade Sign On
+    4300016: Arcade Sign Off
+    4300018: Skybox (Night)
+    4300020: Sun
+    4300022: Skybox
+    4300024: Shops Selfie Board
+    4300026: Alley Fence
+    4300028: Tower
+    4300030: Shops
+    4300032: Food Truck
+    4300034: Monorail (Walkthrough)
+    4300036: Background Buildings D
+    4300038: Background Buildings E
+    4300040: Background Buildings C
+    4300042: Background Buildings F
+    4300044: Construction
+    4300046: Background Buildings G
+    4300048: Apartment Alley
+    4300050: Studio
+    4300052: Metro Station
+    4300054: Grizzco
+    4300056: Studio Turntable
+    4300058: Studio Pearl Chair
+    4300060: Tower Lobby Panel Left
+    4300062: Tower Lobby Panel Right
+    4300064: Chair I
+    4300066: Chair K
+    4300068: Chair J
+    4300070: Chair E
+    4300072: Chair F
+    4300074: Chair H
+    4300076: Chair G
+    4300078: Chair D
+    4300080: Chair C
+    4300082: Chair A
+    4300084: Chair B
+    4300086: Bridge
+    4300088: Tower TV Main Screen
+    4300090: Manhole
+    4300092: Scrolling Sign
+    4300094: Graffiti Splatpost Arcade
+    4300096: Arcade Ika Radio
+    4300098: Amiibo
+    4300100: Ground Sidewalks
+    4300102: Stage
+    4300104: Stage Speakers Center
+    4300106: Weapon Shop Door Left
+    4300108: Bushes and Grass
+    4300110: Stage Speakers Right
+    4300112: Shops TV
+    4300114: Coffee Shop
+    4300116: Background Buildings B
+    4300118: Graffiti Splatpost Grizzco C
+    4300120: Graffiti Splatpost Grizzco B
+    4300122: Apartment
+    4300124: Tower Splash TV Screen
+    4300126: Clothing Shop Door
+    4300128: Main Street
+    4300130: Weapon Shop Door Right
+    4300132: Graffiti Splatpost Grizzco A
+    4300134: Stage Speakers Left
+    4300136: Graffiti Splatpost Studio C
+    4300138: Arcade
+    4300140: Ground Asphalt Dark
+    4300142: Puddles (Walkthrough)
+    4300144: Graffiti Splatpost Studio A
+    4300146: Graffiti Splatpost Construction
+    4300148: City Wires
+    4300150: Tower Lobby Door Left
+    4300152: Background Buildings A
+    4300154: Ground Asphalt Med
+    4300156: Tower Lobby Door Right
+    4300158: Shoe Shop Door Right
+    4300160: Alley
+    4300162: Monorail Train (Walkthrough)
+    4300164: Shoe Shop Door Left
+    4300166: Signal Cables (Walkthrough)
+    4300168: Arcade Door Left
+    4300170: Graffiti Splatpost Studio B
+    4300172: World Base Plane
+    4300174: Weapon Shop Roller
+    4300176: Amiibo Case
+    4300178: Arcade Door Right
+    4300180: Arcade Dance Game
+    4300182: Main TV
+    4300184: Case Snails
+    4300186: Studio Turntable (Recording)
+    4300188: Studio Pearl Chair (Recording)
+    4300190: Apartment Alley.001
+    4300192: World Base Plane.007
+    4300194: World Base Plane.006
+    4300196: World Base Plane.005
+    4300198: World Base Plane.004
+    4300200: World Base Plane.003
+    4300202: World Base Plane.002
+    4300204: World Base Plane.001
+    4300206: Background Buildings G.005
+    4300208: Background Buildings G.004
+    4300210: Background Buildings G.003
+    4300212: Background Buildings G.002
+    4300214: Background Buildings G.001
+    4300216: Background Buildings F.006
+    4300218: Background Buildings F.005
+    4300220: Background Buildings F.004
+    4300222: Background Buildings F.003
+    4300224: Background Buildings F.002
+    4300226: Background Buildings F.001
+    4300228: Background Buildings E.003
+    4300230: Background Buildings E.002
+    4300232: Background Buildings E.001
+    4300234: Background Buildings D.006
+    4300236: Background Buildings D.005
+    4300238: Background Buildings D.004
+    4300240: Background Buildings D.003
+    4300242: Background Buildings D.002
+    4300244: Background Buildings D.001
+    4300246: Background Buildings C.007
+    4300248: Background Buildings C.006
+    4300250: Background Buildings C.005
+    4300252: Background Buildings C.004
+    4300254: Background Buildings C.003
+    4300256: Background Buildings C.002
+    4300258: Background Buildings C.001
+    4300260: Background Buildings B.007
+    4300262: Background Buildings B.006
+    4300264: Background Buildings B.005
+    4300266: Background Buildings B.004
+    4300268: Background Buildings B.003
+    4300270: Background Buildings B.002
+    4300272: Background Buildings B.001
+    4300274: Background Buildings A.003
+    4300276: Background Buildings A.002
+    4300278: Background Buildings A.001
+    4300280: Apartment.019
+    4300282: Apartment.018
+    4300284: Apartment.017
+    4300286: Apartment.016
+    4300288: Apartment.015
+    4300290: Apartment.014
+    4300292: Apartment.013
+    4300294: Apartment.012
+    4300296: Apartment.011
+    4300298: Apartment.010
+    4300300: Apartment.009
+    4300302: Apartment.008
+    4300304: Apartment.007
+    4300306: Apartment.006
+    4300308: Apartment.005
+    4300310: Apartment.004
+    4300312: Apartment.003
+    4300314: Apartment.002
+    4300316: Apartment.001
+    4300318: Apartment Alley.013
+    4300320: Apartment Alley.012
+    4300322: Apartment Alley.011
+    4300324: Apartment Alley.010
+    4300326: Apartment Alley.009
+    4300328: Apartment Alley.008
+    4300330: Apartment Alley.007
+    4300332: Apartment Alley.006
+    4300334: Apartment Alley.005
+    4300336: Apartment Alley.004
+    4300338: Apartment Alley.003
+    4300340: Apartment Alley.002
+    4300342: Construction.034
+    4300344: Construction.033
+    4300346: Construction.032
+    4300348: Construction.031
+    4300350: Construction.030
+    4300352: Construction.029
+    4300354: Construction.028
+    4300356: Construction.027
+    4300358: Construction.026
+    4300360: Construction.025
+    4300362: Construction.024
+    4300364: Construction.023
+    4300366: Construction.022
+    4300368: Construction.021
+    4300370: Construction.020
+    4300372: Construction.019
+    4300374: Construction.018
+    4300376: Construction.017
+    4300378: Construction.016
+    4300380: Construction.015
+    4300382: Construction.014
+    4300384: Construction.013
+    4300386: Construction.012
+    4300388: Construction.011
+    4300390: Construction.010
+    4300392: Construction.009
+    4300394: Construction.008
+    4300396: Construction.007
+    4300398: Construction.006
+    4300400: Construction.005
+    4300402: Construction.004
+    4300404: Construction.003
+    4300406: Construction.002
+    4300408: Construction.001
+    4300410: Grizzco.039
+    4300412: Grizzco.038
+    4300414: Grizzco.037
+    4300416: Grizzco.036
+    4300418: Grizzco.035
+    4300420: Grizzco.034
+    4300422: Grizzco.033
+    4300424: Grizzco.032
+    4300426: Grizzco.031
+    4300428: Grizzco.030
+    4300430: Grizzco.029
+    4300432: Grizzco.028
+    4300434: Grizzco.027
+    4300436: Grizzco.026
+    4300438: Grizzco.025
+    4300440: Grizzco.024
+    4300442: Grizzco.023
+    4300444: Grizzco.022
+    4300446: Grizzco.021
+    4300448: Grizzco.020
+    4300450: Grizzco.019
+    4300452: Grizzco.018
+    4300454: Grizzco.017
+    4300456: Grizzco.016
+    4300458: Grizzco.015
+    4300460: Grizzco.014
+    4300462: Grizzco.013
+    4300464: Grizzco.012
+    4300466: Grizzco.011
+    4300468: Grizzco.010
+    4300470: Grizzco.009
+    4300472: Grizzco.008
+    4300474: Grizzco.007
+    4300476: Grizzco.006
+    4300478: Grizzco.005
+    4300480: Grizzco.004
+    4300482: Grizzco.003
+    4300484: Grizzco.002
+    4300486: Grizzco.001
+    4300488: Tower.030
+    4300490: Tower.029
+    4300492: Tower.028
+    4300494: Tower.027
+    4300496: Tower.026
+    4300498: Tower.025
+    4300500: Tower.024
+    4300502: Tower.023
+    4300504: Tower.022
+    4300506: Tower.021
+    4300508: Tower.020
+    4300510: Tower.019
+    4300512: Tower.018
+    4300514: Tower.017
+    4300516: Tower.016
+    4300518: Tower.015
+    4300520: Tower.014
+    4300522: Tower.013
+    4300524: Tower.012
+    4300526: Tower.011
+    4300528: Tower.010
+    4300530: Tower.009
+    4300532: Tower.008
+    4300534: Tower.007
+    4300536: Tower.006
+    4300538: Tower.005
+    4300540: Tower.004
+    4300542: Tower.003
+    4300544: Tower.002
+    4300546: Tower.001
+    4300548: Coffee Shop.016
+    4300550: Coffee Shop.015
+    4300552: Coffee Shop.014
+    4300554: Coffee Shop.013
+    4300556: Coffee Shop.012
+    4300558: Coffee Shop.011
+    4300560: Coffee Shop.010
+    4300562: Coffee Shop.009
+    4300564: Coffee Shop.008
+    4300566: Coffee Shop.007
+    4300568: Coffee Shop.006
+    4300570: Coffee Shop.005
+    4300572: Coffee Shop.004
+    4300574: Coffee Shop.003
+    4300576: Coffee Shop.002
+    4300578: Coffee Shop.001
+    4300580: Alley.031
+    4300582: Alley.030
+    4300584: Alley.029
+    4300586: Alley.028
+    4300588: Alley.027
+    4300590: Alley.026
+    4300592: Alley.025
+    4300594: Alley.024
+    4300596: Alley.023
+    4300598: Alley.022
+    4300600: Alley.021
+    4300602: Alley.020
+    4300604: Alley.019
+    4300606: Alley.018
+    4300608: Alley.017
+    4300610: Alley.016
+    4300612: Alley.015
+    4300614: Alley.014
+    4300616: Alley.013
+    4300618: Alley.012
+    4300620: Alley.011
+    4300622: Alley.010
+    4300624: Alley.009
+    4300626: Alley.008
+    4300628: Alley.007
+    4300630: Alley.006
+    4300632: Alley.005
+    4300634: Alley.004
+    4300636: Alley.003
+    4300638: Alley.002
+    4300640: Alley.001
+    4300642: Studio.026
+    4300644: Studio.025
+    4300646: Studio.024
+    4300648: Studio.023
+    4300650: Studio.022
+    4300652: Studio.021
+    4300654: Studio.020
+    4300656: Studio.019
+    4300658: Studio.018
+    4300660: Studio.017
+    4300662: Studio.016
+    4300664: Studio.015
+    4300666: Studio.014
+    4300668: Studio.013
+    4300670: Studio.012
+    4300672: Studio.011
+    4300674: Studio.010
+    4300676: Studio.009
+    4300678: Studio.008
+    4300680: Studio.007
+    4300682: Studio.006
+    4300684: Studio.005
+    4300686: Studio.004
+    4300688: Studio.003
+    4300690: Studio.002
+    4300692: Studio.001
+    4300694: Arcade.026
+    4300696: Arcade.025
+    4300698: Arcade.024
+    4300700: Arcade.023
+    4300702: Arcade.022
+    4300704: Arcade.021
+    4300706: Arcade.020
+    4300708: Arcade.019
+    4300710: Arcade.018
+    4300712: Arcade.017
+    4300714: Arcade.016
+    4300716: Arcade.015
+    4300718: Arcade.014
+    4300720: Arcade.013
+    4300722: Arcade.012
+    4300724: Arcade.011
+    4300726: Arcade.010
+    4300728: Arcade.009
+    4300730: Arcade.008
+    4300732: Arcade.007
+    4300734: Arcade.006
+    4300736: Arcade.005
+    4300738: Arcade.004
+    4300740: Arcade.003
+    4300742: Arcade.002
+    4300744: Arcade.001
+    4300746: Metro Station.015
+    4300748: Metro Station.014
+    4300750: Metro Station.013
+    4300752: Metro Station.012
+    4300754: Metro Station.011
+    4300756: Metro Station.010
+    4300758: Metro Station.009
+    4300760: Metro Station.008
+    4300762: Metro Station.007
+    4300764: Metro Station.006
+    4300766: Metro Station.005
+    4300768: Metro Station.004
+    4300770: Metro Station.003
+    4300772: Metro Station.002
+    4300774: Metro Station.001
+    4300776: Shops.037
+    4300778: Shops.036
+    4300780: Shops.035
+    4300782: Shops.034
+    4300784: Shops.033
+    4300786: Shops.032
+    4300788: Shops.031
+    4300790: Shops.030
+    4300792: Shops.029
+    4300794: Shops.028
+    4300796: Shops.027
+    4300798: Shops.026
+    4300800: Shops.025
+    4300802: Shops.024
+    4300804: Shops.023
+    4300806: Shops.022
+    4300808: Shops.021
+    4300810: Shops.020
+    4300812: Shops.019
+    4300814: Shops.018
+    4300816: Shops.017
+    4300818: Shops.016
+    4300820: Shops.015
+    4300822: Shops.014
+    4300824: Shops.013
+    4300826: Shops.012
+    4300828: Shops.011
+    4300830: Shops.010
+    4300832: Shops.009
+    4300834: Shops.008
+    4300836: Shops.007
+    4300838: Shops.006
+    4300840: Shops.005
+    4300842: Shops.004
+    4300844: Shops.003
+    4300846: Shops.002
+    4300848: Shops.001
+    4300850: Main Street.020
+    4300852: Main Street.019
+    4300854: Main Street.018
+    4300856: Main Street.017
+    4300858: Main Street.016
+    4300860: Main Street.015
+    4300862: Main Street.014
+    4300864: Main Street.013
+    4300866: Main Street.012
+    4300868: Main Street.011
+    4300870: Main Street.010
+    4300872: Main Street.009
+    4300874: Main Street.008
+    4300876: Main Street.007
+    4300878: Main Street.006
+    4300880: Main Street.005
+    4300882: Main Street.004
+    4300884: Main Street.003
+    4300886: Main Street.002
+    4300888: Main Street.001
+    4300890: Background Buildings J
+    4300892: Background Buildings K
+    4300894: Background Buildings H
+    4300896: Background Buildings L
+    4300898: Background Buildings I
+    4300900: Background Buildings IkaTower
+    9500000: //RootNode
+    13700000: Skybox
+    13700002: Skybox (Night)
+    13700004: Sun
+    13700006: Case Snails
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Air Conditioners
+    second: {fileID: 2100000, guid: d2c7133e59313bd4aa364c7c51d45750, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Alley Fence
+    second: {fileID: 2100000, guid: f98363d0b7d7b924e9beb67e6e7fab67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Apartment Display
+    second: {fileID: 2100000, guid: e7a738c1cf875604cb0fa8c42bb108b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arcade Cabinet (Googie Gang)
+    second: {fileID: 2100000, guid: 4f36512f22811674fb7ae9e5f771f2bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arcade Cabinet (Jet Set Radio)
+    second: {fileID: 2100000, guid: 436128858fc296844a48fd216c1707c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arcade Cabinet (Ultra Cloyster
+    second: {fileID: 2100000, guid: d22bbe3c8ec034b4db2cd89c0ffa680d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arcade Cabinet (Ultra Cloyster)
+    second: {fileID: 2100000, guid: a19d89a76496a4d4f815beabcd928b62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arcade Door
+    second: {fileID: 2100000, guid: e081f00e610c0624aaec1741507df86b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arcade Flag
+    second: {fileID: 2100000, guid: 03f9fbd05a06c964683d0990d0a7c0a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arcade Floor
+    second: {fileID: 2100000, guid: 6c5523007a095e9488d5b790d9637bc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arcade Sign Back
+    second: {fileID: 2100000, guid: 08215d73d33505c458edeaf3441483b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arcade Sign Metal
+    second: {fileID: 2100000, guid: f0f12a3dd27c9a540aa4b7a94e0221ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arcade Sign Neon
+    second: {fileID: 2100000, guid: 829be8cf353a16e4a88375f1910c4699, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Asphalt Dark
+    second: {fileID: 2100000, guid: 52568277adaa8c940aab8804863d2504, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Asphalt Light
+    second: {fileID: 2100000, guid: 8b419d266a00c3c439b7dbd184740da4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Asphalt Med
+    second: {fileID: 2100000, guid: c17d4ed190c503d438077ce1f3d356fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Background Building Glass
+    second: {fileID: 2100000, guid: 3a33994004abd734bace0d693d678148, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Background Buildings Glass
+    second: {fileID: 2100000, guid: c7362f8f3c37f8c41a491574a92baf98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Background Buildings with Windows
+    second: {fileID: 2100000, guid: cb1890784e9448a4d8c945cdae39d53d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bike Set A
+    second: {fileID: 2100000, guid: 57c0bff4a862b984ba484ce36c96cefd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bike Set B
+    second: {fileID: 2100000, guid: 3af3ced02cd12ec49909a5e81c6069cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: e5eab6260e88af9498d89be016706312, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black Metal
+    second: {fileID: 2100000, guid: 7e2e0aacd349819489d3862f34f892c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brick
+    second: {fileID: 2100000, guid: fb14fffa546e063448080ed7965af81c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bridge
+    second: {fileID: 2100000, guid: 944edd78a940836438cbe8b85f1a60cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buildings Black
+    second: {fileID: 2100000, guid: a8feedafb74ba6446a69c8bd7b1a5f6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buildings Light
+    second: {fileID: 2100000, guid: 68705f609d8fe1544b0ee0acd7f5c874, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bushes and Grass
+    second: {fileID: 2100000, guid: 832b676afa45bf34b9c6635e252a5310, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cat Cushion
+    second: {fileID: 2100000, guid: 4921c0e56695ceb418f0534ea4c97cd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City Detail A
+    second: {fileID: 2100000, guid: 97c7dab52606f644e8221148f2f490c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City Detail B
+    second: {fileID: 2100000, guid: b3485a7bbb58dce49a2529f9d8fd25bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City Detail C
+    second: {fileID: 2100000, guid: f7e8b89dcea33234ead662eb6b900d8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: City Details Black
+    second: {fileID: 2100000, guid: 799ab772d5daf584aa1a872c304fd766, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clothing Store Logo
+    second: {fileID: 2100000, guid: c8fb7d6e69ebc4f489790b1ff5590c83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coffee Shop Large Sign
+    second: {fileID: 2100000, guid: a406b6c5dea33c6498ea26f7f50a9b0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coffee Shop Little Sign
+    second: {fileID: 2100000, guid: 885c595a8edd807478b4d80caf0fc3a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete Cracks
+    second: {fileID: 2100000, guid: e23c7348c7ccdf74d9427eceb59fb02e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete Light
+    second: {fileID: 2100000, guid: 32f6d4b7cda10184a8fb4f3b0481bdfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Crane
+    second: {fileID: 2100000, guid: d60d09ea4deed8149854c9469e77c33b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Crane Details
+    second: {fileID: 2100000, guid: bf02d22f19bcb7d48914c2eb686ddacd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Curbs and Stuff
+    second: {fileID: 2100000, guid: 864eaa655dd7b5946b6f70987cde8fc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dance Game Screen
+    second: {fileID: 2100000, guid: ec59829d86612af40bdd3ca6aea91730, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dance Machine A
+    second: {fileID: 2100000, guid: b04919e29440e10458f3d2dafd46be05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dance Machine B
+    second: {fileID: 2100000, guid: 0560e79b75b3295409cab0b8ef9a2f77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Gray Metal Panel
+    second: {fileID: 2100000, guid: ce9a089dda4310b4282c64cc0cc1b0c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Gray Tiles
+    second: {fileID: 2100000, guid: 856cd6e5624a6ce4cbc48ee63a05926d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dirt
+    second: {fileID: 2100000, guid: 790a5039926ac5243a8106a52c7a08d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dots
+    second: {fileID: 2100000, guid: 19d880a614826b74e9a42795c03075c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flag
+    second: {fileID: 2100000, guid: c70fe3d0e13f6f54485cdc44e44e6209, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor Mats
+    second: {fileID: 2100000, guid: fa0e05805457e0643a65f78fce47a927, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Food Truck
+    second: {fileID: 2100000, guid: 076be44df158d474fb07d4e681bbe0c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GatewayWiremesh
+    second: {fileID: 2100000, guid: 94ce272b7c3de24419da83b0ea54a788, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 5b344c2ef36628f498cc1c2516bcfa21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Dark
+    second: {fileID: 2100000, guid: 0c58f8731d4094b4aae4bc4cf33335fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Graffiti
+    second: {fileID: 2100000, guid: 79ff1302c14c74b4da4f4299eac2135a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gray Concrete
+    second: {fileID: 2100000, guid: b5960a2a4b49a2b49af452fdc6b6a821, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ground Paint
+    second: {fileID: 2100000, guid: 09013b11dac894c4a818be4b21e23fcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ground Sidewalks Tiles
+    second: {fileID: 2100000, guid: aae0963ce435d8047a3f8f6c44e10c44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Idol Poster
+    second: {fileID: 2100000, guid: 3f92bce9ffac5b242ae066743f6e651e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ika Radio
+    second: {fileID: 2100000, guid: e0210c04ff84a5443be2ad52cdba9427, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jelly Fresh Door
+    second: {fileID: 2100000, guid: 7d7d25bac8356e2419dda8e9ca877790, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KomonoPartsEmmA
+    second: {fileID: 2100000, guid: e4a2633623575194b8d6832899cebaa7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light Tiles
+    second: {fileID: 2100000, guid: e47a2e8aac454f347969fcb03d325cca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lobby Door
+    second: {fileID: 2100000, guid: b027ea0665ed5bf4dba768aea698b2c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lobby Floor
+    second: {fileID: 2100000, guid: 11eaf8b584b340747b01c4c20c94a5d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lobby Panel Bottom
+    second: {fileID: 2100000, guid: e44701a8bc00e244e9e5d9b9eedee218, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lobby Panel Top
+    second: {fileID: 2100000, guid: 64b6896f1747f534e91e7fb05c1bd695, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Manhole
+    second: {fileID: 2100000, guid: 00df45e5e1a932948bdca43970704838, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Sticker
+    second: {fileID: 2100000, guid: d1d7845c73e7cfa4dba1b24f64fed9b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Stone
+    second: {fileID: 2100000, guid: 7a59a344558c7e9418c19df3b611a732, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal Shutter Dark
+    second: {fileID: 2100000, guid: eb50318b38c96c24bb7a7909af540940, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal Shutter Light
+    second: {fileID: 2100000, guid: 89db90adae1ba01478b7ad9e283f82d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metals and Chairs
+    second: {fileID: 2100000, guid: ae60f036f985ba841a9dca0c6cfe21bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material010
+    second: {fileID: 2100000, guid: 5c31b9a84f6bd984d8bdb0cd2b540f06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material012
+    second: {fileID: 2100000, guid: ba3c12a15e300be4e8ad2ed0451faf6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material015
+    second: {fileID: 2100000, guid: 1b64b415bcacbe24dacd4a1c8a4d3815, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material016
+    second: {fileID: 2100000, guid: 0c27aff7cdbf3f44492156c1f1d711b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material021
+    second: {fileID: 2100000, guid: fa462b468274a584e8b409abaa83e11c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material022
+    second: {fileID: 2100000, guid: a629e132c9b28c9439a7cc84146b304e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material024
+    second: {fileID: 2100000, guid: fdf4301a85ee5ab43bd9220a97c41f0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material025
+    second: {fileID: 2100000, guid: 9eed8ed92fed5e14989ee726fccdcbb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material027
+    second: {fileID: 2100000, guid: b0202e1fd694cf341a85665d29bac0a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material031
+    second: {fileID: 2100000, guid: a01aba18456a85144bdc45358b681cad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material037
+    second: {fileID: 2100000, guid: de0afff3bc8da7d428a99b7fb81e2d22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material039
+    second: {fileID: 2100000, guid: ba5035c73f99b404785016cc5f41cfba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material042
+    second: {fileID: 2100000, guid: 0c147db6b4008c34497013bc6b06052b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material044
+    second: {fileID: 2100000, guid: a9d0558ca846aaa4c919b6c32998edbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material045
+    second: {fileID: 2100000, guid: 902e67057c62fa643ba78eef257d21e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material047
+    second: {fileID: 2100000, guid: 95d9b6badd74f234499041680118ae02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material048
+    second: {fileID: 2100000, guid: abef9c01673247447832416a6d2969ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material052
+    second: {fileID: 2100000, guid: 20a8fb45ec0aae0469481b684777828f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material053
+    second: {fileID: 2100000, guid: 5a0586358549c1a4cb7dc56d8cdb7449, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material055
+    second: {fileID: 2100000, guid: 481535bf8734ffa4687e883b57acdf8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material056
+    second: {fileID: 2100000, guid: ca16dd202edc64e4eb205d35c54b3ca0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material062
+    second: {fileID: 2100000, guid: 5cfd9123fb95d2d4aaa13d95a8389735, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material063
+    second: {fileID: 2100000, guid: d11742c51c17d9e4081aeccb4f5ab0fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material064
+    second: {fileID: 2100000, guid: 409bafbc89d550647bd404b75f45dac0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material066
+    second: {fileID: 2100000, guid: 88dab43545e344943b3a7d83e5576f2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material071
+    second: {fileID: 2100000, guid: c29e452f048445d46b7af018560e1ce3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material073
+    second: {fileID: 2100000, guid: 7899940fdc5c12c458777bada1582c96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material075
+    second: {fileID: 2100000, guid: 7f84090a4a4cc9e4787cb51420a411a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material076
+    second: {fileID: 2100000, guid: 9aaa4931e1937cb47aefa628d23d32af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material086
+    second: {fileID: 2100000, guid: a6f675dcd203a1c48bb04f93a9d47a06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material090
+    second: {fileID: 2100000, guid: ec7d2f1a01cced244a199dd474084423, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material094
+    second: {fileID: 2100000, guid: 55c8ea6ece0f39d4aa81b193582caaaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material104
+    second: {fileID: 2100000, guid: 3012c6f6bc6a0074ba3ee4ebd40ea6ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material105
+    second: {fileID: 2100000, guid: 5faed45b38b17ba4cb4aaed3ba0a1f9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material108
+    second: {fileID: 2100000, guid: aa80013c3ce665541aedb59593eac6ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material118
+    second: {fileID: 2100000, guid: 485f93dd370355b4cba9e4add701017a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material119
+    second: {fileID: 2100000, guid: 917963e8f756d5a45925eeb9c2062c6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material124
+    second: {fileID: 2100000, guid: 5a034c14120912c4ca90f78dca418a7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material128
+    second: {fileID: 2100000, guid: b5eb544dc67a8d04a98d262470916b2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material129
+    second: {fileID: 2100000, guid: 3c7f2aa4da2e9d54587ab2da0ac76db0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material148
+    second: {fileID: 2100000, guid: 7a07b423beaaba449af22f16e0414c2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material149
+    second: {fileID: 2100000, guid: ede000340ed9a804db17133d4e560e5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material152
+    second: {fileID: 2100000, guid: a0cc3a8b5042cd54f81663f9276cbffc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material158
+    second: {fileID: 2100000, guid: dbf13e1580bce3144ad642852e664d51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material161
+    second: {fileID: 2100000, guid: 39003195a91ae5c4483f197eb24de749, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material162
+    second: {fileID: 2100000, guid: ef413ad1b1062c74bbeedf56590f7f9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Model001_Material178
+    second: {fileID: 2100000, guid: 4472a69dc7056cf45897def5d9532c0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MonoRail
+    second: {fileID: 2100000, guid: 5a019189b81b0cd4da71cf562aa9da79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Monorail Fence
+    second: {fileID: 2100000, guid: 15004cdfcd5b3ca42bb4a5ca7dc91fae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Not Glass
+    second: {fileID: 2100000, guid: e51053a22f509564fa3cb7c20b4485e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Origami Bird
+    second: {fileID: 2100000, guid: 8c975d0f7cc12eb4293abafe509a3ba6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pearl Chair
+    second: {fileID: 2100000, guid: c10f10eed9bd2fe469feba15f983f8d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plaza Sign Off
+    second: {fileID: 2100000, guid: 52000ffa5005e2940800bac1707d95a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Post Details
+    second: {fileID: 2100000, guid: 4d8c279edb614dd448436fab29021044, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PostarSetA
+    second: {fileID: 2100000, guid: 18105f4da2767424fb3e0ac7f3572c5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poster Set A
+    second: {fileID: 2100000, guid: 19a4b69aeb293e349a4fd9a684ed1bff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Puddles
+    second: {fileID: 2100000, guid: cf4b4f4c999344d4e9db604e0f7f9b60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Salmon Lights Green
+    second: {fileID: 2100000, guid: 055829a0c1632ec4381b4074064b46fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Salmon Lights Orange
+    second: {fileID: 2100000, guid: fcf132d24427e554a961b71ce11a981c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scrap Heaps
+    second: {fileID: 2100000, guid: 2e0ba19a75fe80b46b54fa94e77c4385, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scrolling Sign
+    second: {fileID: 2100000, guid: cf3561a8831ecee49b1e9f04548c6c16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sea Snail Case
+    second: {fileID: 2100000, guid: 16d461a28c2a6644f985518fdcc7f747, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sea Snails
+    second: {fileID: 2100000, guid: 10c266d1f3871874bb0b34b3724fd943, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Selfie Board
+    second: {fileID: 2100000, guid: 43f162a9839ad1747a4169a2ebc3ced3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sheldon Door
+    second: {fileID: 2100000, guid: 54f5ed8bb6cc2e54b8a912f68cf75061, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shoe Shop Door
+    second: {fileID: 2100000, guid: 6ac29e0ca7e4e3e4cac4b3fb7c48e7d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalks
+    second: {fileID: 2100000, guid: f767aa09479132d4aa0ba10159c3ad92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Signs
+    second: {fileID: 2100000, guid: e2b3c5cdba79b744faf74be1391139c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skybox
+    second: {fileID: 2100000, guid: a132ac054ab4ea847b098673079d1b55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skybox Night
+    second: {fileID: 2100000, guid: e9d3d8605e85b344a8438203c35f04c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Spawn
+    second: {fileID: 2100000, guid: ea341c4a058559e438d01d52166eaa62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Speakers
+    second: {fileID: 2100000, guid: 4d54b5c8c04e13c41828384538b540d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Splash TV Screen
+    second: {fileID: 2100000, guid: 683933b264ef3384eaf9fc1caef79f73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Splatfest Flyer
+    second: {fileID: 2100000, guid: b6ca3c8e9de087b41887ce8c208e1d62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Splatfest Post Arcade
+    second: {fileID: 2100000, guid: ee703d93e3b2b2148800d440a845f6fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Splatfest Terminal
+    second: {fileID: 2100000, guid: d047331f4d9021e46a604716767b5b78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Splatfest Terminal Sign
+    second: {fileID: 2100000, guid: 9033004e45153d541a127157c9e73fb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Splatpost Construction
+    second: {fileID: 2100000, guid: ddadd4ebbaa48e2449748288a17c231b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Splatpost Grizzco A
+    second: {fileID: 2100000, guid: 7299f95605beae04688847f494139361, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Splatpost Grizzco B
+    second: {fileID: 2100000, guid: c2f9a945b65cf374db06c6eb4b314a03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Splatpost Grizzco C
+    second: {fileID: 2100000, guid: 371ecaf9a0a4c9f44920ff929fb1a427, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Splatpost Studio A
+    second: {fileID: 2100000, guid: a46b79c0aff142e40af357ef1ac0d865, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Splatpost Studio B
+    second: {fileID: 2100000, guid: a5dfc7741d55ff14fa17de4c116a4d09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Splatpost Studio C
+    second: {fileID: 2100000, guid: 000d96a3e9cf5274cba9b790e0ede2cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Squidforce Sign
+    second: {fileID: 2100000, guid: dd8567d69c418774e839507d752657de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stage Color Lights
+    second: {fileID: 2100000, guid: 4507bc6d2aca21441b1bf9c112887af7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stage Edges
+    second: {fileID: 2100000, guid: d790bf80d2ac8944e9c51c4d044630d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stage Floor
+    second: {fileID: 2100000, guid: 4b9a05f9629792645b8ac69ccb724a2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stage Metalic Rim
+    second: {fileID: 2100000, guid: ef29e430445590b43975c53a34d0358f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stage Panel Lights
+    second: {fileID: 2100000, guid: 5569af03f76ea1049b61bc504c554145, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stage Set A
+    second: {fileID: 2100000, guid: de69ed0e59cf05549a4d81569add46e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stage Set B
+    second: {fileID: 2100000, guid: 5d04a8697e0cad94482cf13ad550455a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stage Spotlights
+    second: {fileID: 2100000, guid: 49a44d1bc40045744a39b608f130fac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stage Structure
+    second: {fileID: 2100000, guid: 64ddfdd6005d9a74387a41d291d9a552, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stage Structure Bottom
+    second: {fileID: 2100000, guid: e853e00b5bdd868468529947918a638c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stage Structure Top
+    second: {fileID: 2100000, guid: 67c641237ce684440bd63efea028705e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Studio Glass
+    second: {fileID: 2100000, guid: 260f372c5ed825043a4410161dcc467d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tables and Chairs
+    second: {fileID: 2100000, guid: 2e42b0d83feb1c748a28b65c888fc04d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tiles Light
+    second: {fileID: 2100000, guid: 9501798924a716949b260696b06c2d89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tower Main Screen
+    second: {fileID: 2100000, guid: 5ef6c88c502fd9d478c825191368983f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Traffic Signals
+    second: {fileID: 2100000, guid: a1fc21dc60875ff43ab6a3b0c4630218, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tree Details
+    second: {fileID: 2100000, guid: 5d6d687ee22a1ef44bdb891d59742387, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tree Leaves
+    second: {fileID: 2100000, guid: 4c57ee328a7a1344cbbf60e7fb3b3b23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tree Trunks
+    second: {fileID: 2100000, guid: 801452b0d0ed6374d842d4407e7c8856, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Turntable
+    second: {fileID: 2100000, guid: 156346b5086f9434d9722861f2206499, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Turntable Cart
+    second: {fileID: 2100000, guid: 34a64e77d04ab4548a9c25cacd2ffc35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Turntable Console
+    second: {fileID: 2100000, guid: a52db58752524a24aab64b6a16e75b0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Turntable Logo
+    second: {fileID: 2100000, guid: 7654e30a970f0ea47aacd9ff8419fe19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Turtle
+    second: {fileID: 2100000, guid: fc1820c66944d474ea06402fe870f544, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Turtle Neck
+    second: {fileID: 2100000, guid: b17e04724daaac6409cc02e73d551a12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VRL_Sun
+    second: {fileID: 2100000, guid: d81c2ba852c87f24b831365f419f4f79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Weapon Shop Roller
+    second: {fileID: 2100000, guid: c4c19b174bf19fc4db9ec8a6ccf0b1c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Weapon Shop Roller Light
+    second: {fileID: 2100000, guid: 29e2aeef9e0239745b94de2cc6df08d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White Emmission Lights
+    second: {fileID: 2100000, guid: 6de58511150c0d94d9efc621d379e956, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood Floor
+    second: {fileID: 2100000, guid: e7daed70ae8f5b94fa182d0e65d391fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood Gray
+    second: {fileID: 2100000, guid: 04cbdaabb4c766c4a8b619aa002de95c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: World Plane
+    second: {fileID: 2100000, guid: c15939c90009ad04494ce7fddc0410e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yellow Fences
+    second: {fileID: 2100000, guid: 1ae7f77408f49164fab7b5ac217ba1b3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

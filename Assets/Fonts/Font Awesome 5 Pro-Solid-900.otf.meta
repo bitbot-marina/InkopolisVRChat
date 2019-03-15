@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b08182e1e3baec747a9c53042244a14f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Font Awesome 5 Pro
+  fontNames:
+  - Font Awesome 5 Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 256847438fc17c44dab4614bc920e711, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

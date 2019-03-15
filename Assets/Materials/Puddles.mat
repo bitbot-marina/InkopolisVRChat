@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Puddles
+  m_Shader: {fileID: 4800000, guid: ad3fb3a2d4679504da4a64f9d67f885c, type: 3}
+  m_ShaderKeywords: _ALPHAPREMULTIPLY_ON _DOYOUHAVEAMTL_ON _DOYOUHAVEANALB_ON _DOYOUHAVEANAO_ON
+    _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A _SPECGLOSSMAP
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AO:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EMM:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MTL:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: e1fccbe2309ce8046942707953db0126, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RGH:
+        m_Texture: {fileID: 2800000, guid: c4d378a295ba0e648bab794910cbcb51, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 2800000, guid: 88d6472a8a0cf8f42b0f534b8eddd0ba, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AOTextureOverride: 1
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DoyouhaveaEMM: 0
+    - _DoyouhaveaMTL: 0.3506078
+    - _DoyouhaveaRGH: 0
+    - _DoyouhaveanALB: 1
+    - _DoyouhaveanAO: 1
+    - _DstBlend: 10
+    - _EMMTextureOverride: 1
+    - _GlossMapScale: 0.927
+    - _Glossiness: 0
+    - _GlossyReflections: 1
+    - _MTLTextureOverride: 1
+    - _Metallic: 0
+    - _Mode: 3
+    - _Needsomeeffects: 0
+    - _NeedtoOverridethe: 0
+    - _NoAOSlider: 1
+    - _NoEMMSlider: 0
+    - _NoMTLSlider: 0.3506078
+    - _NoRGHSlider: 0
+    - _OPACITYOverride: 0.593
+    - _OcclusionStrength: 1
+    - _Opacity: 0.05
+    - _PBRstuffthatunityneeds: 0
+    - _Parallax: 0.02
+    - _RGHTextureOverride: 1
+    - _ReflectResrightbetter: 0
+    - _ReflectionControls: 0
+    - _ReflectivePower: 1
+    - _SALBasePower: 10
+    - _SALReflectionMultiply: 2
+    - _ShaderBySmoothie: 0
+    - _SmoothnessTextureChannel: 1
+    - _SomeCrucialQuestions: 0
+    - _SpecularAmbientLightforaNiceShine: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _TEXTURES: 0
+    - _UVSec: 0
+    - _ZWrite: 0
+    - _butdonthavetextures: 0
+    - _metalness: 0
+    - _powerofsometextures: 0
+    - _roughness: 0
+    m_Colors:
+    - _BaseColour: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
+    - _NoALBColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}

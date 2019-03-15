@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: 7ae0bb626cccacd4eaae56d52b403444
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Armature
+    100004: Body
+    100006: Chest
+    100008: Default
+    100010: EarL
+    100012: EarR
+    100014: Eye_L
+    100016: Eye_R
+    100018: Hair_Emo_Tentacles_004
+    100020: Hair_Emo_Tentacles_005
+    100022: Head
+    100024: Hips
+    100026: IndexFinger1_L
+    100028: IndexFinger1_R
+    100030: IndexFinger2_L
+    100032: IndexFinger2_R
+    100034: Left_ankle
+    100036: Left_arm
+    100038: Left_elbow
+    100040: Left_knee
+    100042: Left_leg
+    100044: Left_leg_2
+    100046: Left_shoulder
+    100048: Left_toe
+    100050: Left_wrist
+    100052: LeftEye
+    100054: LittleFinger1_L
+    100056: LittleFinger1_R
+    100058: LittleFinger2_L
+    100060: LittleFinger2_R
+    100062: MiddleFinger1_L
+    100064: MiddleFinger1_R
+    100066: MiddleFinger2_L
+    100068: MiddleFinger2_R
+    100070: Neck
+    100072: Right_ankle
+    100074: Right_arm
+    100076: Right_elbow
+    100078: Right_knee
+    100080: Right_leg
+    100082: Right_leg_2
+    100084: Right_shoulder
+    100086: Right_toe
+    100088: Right_wrist
+    100090: RightEye
+    100092: RingFinger1_L
+    100094: RingFinger1_R
+    100096: RingFinger2_L
+    100098: RingFinger2_R
+    100100: Spine
+    100102: TeethDOWN
+    100104: TeethUP
+    100106: Thumb0_L
+    100108: Thumb0_R
+    100110: Thumb1_L
+    100112: Thumb1_R
+    100114: Thumb2_L
+    100116: Thumb2_R
+    400000: //RootNode
+    400002: Armature
+    400004: Body
+    400006: Chest
+    400008: Default
+    400010: EarL
+    400012: EarR
+    400014: Eye_L
+    400016: Eye_R
+    400018: Hair_Emo_Tentacles_004
+    400020: Hair_Emo_Tentacles_005
+    400022: Head
+    400024: Hips
+    400026: IndexFinger1_L
+    400028: IndexFinger1_R
+    400030: IndexFinger2_L
+    400032: IndexFinger2_R
+    400034: Left_ankle
+    400036: Left_arm
+    400038: Left_elbow
+    400040: Left_knee
+    400042: Left_leg
+    400044: Left_leg_2
+    400046: Left_shoulder
+    400048: Left_toe
+    400050: Left_wrist
+    400052: LeftEye
+    400054: LittleFinger1_L
+    400056: LittleFinger1_R
+    400058: LittleFinger2_L
+    400060: LittleFinger2_R
+    400062: MiddleFinger1_L
+    400064: MiddleFinger1_R
+    400066: MiddleFinger2_L
+    400068: MiddleFinger2_R
+    400070: Neck
+    400072: Right_ankle
+    400074: Right_arm
+    400076: Right_elbow
+    400078: Right_knee
+    400080: Right_leg
+    400082: Right_leg_2
+    400084: Right_shoulder
+    400086: Right_toe
+    400088: Right_wrist
+    400090: RightEye
+    400092: RingFinger1_L
+    400094: RingFinger1_R
+    400096: RingFinger2_L
+    400098: RingFinger2_R
+    400100: Spine
+    400102: TeethDOWN
+    400104: TeethUP
+    400106: Thumb0_L
+    400108: Thumb0_R
+    400110: Thumb1_L
+    400112: Thumb1_R
+    400114: Thumb2_L
+    400116: Thumb2_R
+    2100000: Torso__m_body_albout_png
+    2100002: Material1__m_hed_sup001_alb_png
+    2100004: Material2__emo_M_png
+    2100006: Pupil__eye_png
+    2100008: TeethDown__M_TeamColor_png
+    2100010: EyeBrows__brow_png
+    2100012: HL
+    2100014: Mask
+    2100016: Eyes2__M_Eyelid_Mlta_png
+    2100018: Arms__arm_png
+    2100020: Head__M_Body_Ml_png
+    2100022: M_SHT013__TrainBL_png
+    2100024: M_Btm_010__leggings_png
+    2100026: Material2_001__m_hed_sup001glass_alb_png
+    2100028: M_TNK003_bracelet__WhiteF_png
+    2100030: Shoes__TrainBL_png
+    2100032: Frames__m_hed_sup001_alb_png
+    2100034: Hair__emo_M_png
+    2100036: Pants__leggings_png
+    2100038: Lenses__m_hed_sup001glass_alb_png
+    2100040: combined_material_6720635225__m_body_albout_png
+    2100042: combined_material_6720635225__M_Body_Ml_png
+    2100044: combined_material_6720635225__arm_png
+    2100046: combined_material_6720635225__M_Eyelid_Mlta_png
+    2100048: combined_material_6720635225
+    2100050: combined_material_6720635225__brow_png
+    2100052: combined_material_6720635225__M_TeamColor_png
+    2100054: Clothes__WhiteF_png
+    4300000: Body
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: Body
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

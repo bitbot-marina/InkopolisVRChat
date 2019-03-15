@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: a27704fc9f89f7b4d828a924d38ad31c
+timeCreated: 1531695688
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - _ThePost: {fileID: 2800000, guid: 57b92aa7ea0d45d4b9dfd7bd0567c668, type: 3}
+  - _SplatPattern: {fileID: 2800000, guid: 1e8f468b5bb5aa244815914d42c4c6a5, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: 8ea1f0c416a8eab4d8fa2e412e706d72
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: apron1
+    100002: apron2
+    100004: apron2_end
+    100006: arm1_L
+    100008: arm1_R
+    100010: arm2_L
+    100012: arm2_R
+    100014: fingerA1_L
+    100016: fingerA1_R
+    100018: fingerA2_L
+    100020: fingerA2_L_end
+    100022: fingerA2_R
+    100024: fingerA2_R_end
+    100026: fingerB1_L
+    100028: fingerB1_R
+    100030: fingerB2_L
+    100032: fingerB2_R
+    100034: foot_L
+    100036: foot_R
+    100038: hand_L
+    100040: hand_R
+    100042: head
+    100044: hip
+    100046: kabuto_body
+    100048: kabuto_body2
+    100050: kabuto_root
+    100052: leg1_L
+    100054: leg1_R
+    100056: leg2_L
+    100058: leg2_R
+    100060: mouth0
+    100062: mouth0__M_Skin
+    100064: mouth0__M_Skin_end
+    100066: mouth0_end
+    100068: mouth1
+    100070: mouth1__M_Skin
+    100072: mouth1__M_Skin_end
+    100074: mouth1_end
+    100076: mouth3
+    100078: mouth3__M_Skin
+    100080: mouth3__M_Skin_end
+    100082: mouth3_end
+    100084: Npc_WeaponsShop__M_Apron
+    100086: Npc_WeaponsShop__M_Apron_end
+    100088: Npc_WeaponsShop__M_Cloth
+    100090: Npc_WeaponsShop__M_Cloth_end
+    100092: Npc_WeaponsShop__M_Eye
+    100094: Npc_WeaponsShop__M_Eye_end
+    100096: Npc_WeaponsShop__M_Glass
+    100098: Npc_WeaponsShop__M_Glass_end
+    100100: Npc_WeaponsShop__M_Koura
+    100102: Npc_WeaponsShop__M_Koura_end
+    100104: Npc_WeaponsShop__M_Skin
+    100106: Npc_WeaponsShop__M_Skin_end
+    100108: root
+    100110: sheldon
+    100112: //RootNode
+    100114: sheldon_skeleton
+    100116: skl_root
+    100118: spine
+    100120: spine2
+    100122: tail
+    100124: tail_end
+    100126: thumb_L
+    100128: thumb_L_end
+    100130: thumb_R
+    100132: thumb_R_end
+    100134: toe_L
+    100136: toe_L_end
+    100138: toe_R
+    100140: toe_R_end
+    100142: z_fingerB_L
+    100144: z_fingerB_L_end
+    100146: z_fingerB_R
+    100148: z_fingerB_R_end
+    400000: apron1
+    400002: apron2
+    400004: apron2_end
+    400006: arm1_L
+    400008: arm1_R
+    400010: arm2_L
+    400012: arm2_R
+    400014: fingerA1_L
+    400016: fingerA1_R
+    400018: fingerA2_L
+    400020: fingerA2_L_end
+    400022: fingerA2_R
+    400024: fingerA2_R_end
+    400026: fingerB1_L
+    400028: fingerB1_R
+    400030: fingerB2_L
+    400032: fingerB2_R
+    400034: foot_L
+    400036: foot_R
+    400038: hand_L
+    400040: hand_R
+    400042: head
+    400044: hip
+    400046: kabuto_body
+    400048: kabuto_body2
+    400050: kabuto_root
+    400052: leg1_L
+    400054: leg1_R
+    400056: leg2_L
+    400058: leg2_R
+    400060: mouth0
+    400062: mouth0__M_Skin
+    400064: mouth0__M_Skin_end
+    400066: mouth0_end
+    400068: mouth1
+    400070: mouth1__M_Skin
+    400072: mouth1__M_Skin_end
+    400074: mouth1_end
+    400076: mouth3
+    400078: mouth3__M_Skin
+    400080: mouth3__M_Skin_end
+    400082: mouth3_end
+    400084: Npc_WeaponsShop__M_Apron
+    400086: Npc_WeaponsShop__M_Apron_end
+    400088: Npc_WeaponsShop__M_Cloth
+    400090: Npc_WeaponsShop__M_Cloth_end
+    400092: Npc_WeaponsShop__M_Eye
+    400094: Npc_WeaponsShop__M_Eye_end
+    400096: Npc_WeaponsShop__M_Glass
+    400098: Npc_WeaponsShop__M_Glass_end
+    400100: Npc_WeaponsShop__M_Koura
+    400102: Npc_WeaponsShop__M_Koura_end
+    400104: Npc_WeaponsShop__M_Skin
+    400106: Npc_WeaponsShop__M_Skin_end
+    400108: root
+    400110: //RootNode
+    400112: sheldon
+    400114: sheldon_skeleton
+    400116: skl_root
+    400118: spine
+    400120: spine2
+    400122: tail
+    400124: tail_end
+    400126: thumb_L
+    400128: thumb_L_end
+    400130: thumb_R
+    400132: thumb_R_end
+    400134: toe_L
+    400136: toe_L_end
+    400138: toe_R
+    400140: toe_R_end
+    400142: z_fingerB_L
+    400144: z_fingerB_L_end
+    400146: z_fingerB_R
+    400148: z_fingerB_R_end
+    2100000: M_Apron
+    2100002: M_Cloth
+    2100004: M_Eye
+    2100006: M_Glass
+    2100008: M_Koura
+    2100010: M_Skin
+    4300000: sheldon
+    7400000: Sheldon Wait
+    9500000: //RootNode
+    13700000: sheldon
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Sheldon Wait
+      takeName: sheldon_skeleton|sheldonwait
+      firstFrame: 0
+      lastFrame: 240
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

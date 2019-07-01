@@ -6,6 +6,9 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using VRC.Core;
+#if UNITY_EDITOR
+using UnityEditor;
+#endif
 
 namespace VRCSDK2
 {
@@ -34,6 +37,8 @@ namespace VRCSDK2
 
         private bool cancelRequested = false;
 
+        public static bool publishingToCommunityLabs = false;
+
         private Dictionary<string, string> mRetryState = new Dictionary<string, string>();
 
         protected bool isUpdate { get { return pipelineManager.completedSDKPipeline; } }
@@ -55,7 +60,6 @@ namespace VRCSDK2
             forceNewFileCreation = UnityEditor.EditorPrefs.GetBool("forceNewFileCreation", true);
             useFileApi = UnityEditor.EditorPrefs.GetBool("useFileApi", VRC.Core.ApiFile.kDefaultUseFileAPI);
 
-            API.InitializeDebugLevel();
             API.SetOnlineMode(true);
         }
 
@@ -147,6 +151,17 @@ namespace VRCSDK2
             return val;
         }
 
+        protected virtual void DisplayUpdateCompletedDialog(string contentUrl=null)
+        {
+            if (UnityEditor.EditorUtility.DisplayDialog("VRChat SDK", "Update Complete! Launch VRChat to see your uploaded content." + (null==contentUrl ? "" : "\n\nManage content at: " + contentUrl ), (null == contentUrl) ? "Okay" : CommunityLabsConstants.MANAGE_WORLD_IN_BROWSER_STRING, (null == contentUrl) ? "" : "Done" ))
+            {
+                if (null!=contentUrl)
+                {
+                    Application.OpenURL(contentUrl);
+                }
+            }
+        }
+
         protected void OnSDKPipelineComplete(string contentUrl=null)
         {
             VRC.Core.Logger.Log("OnSDKPipelineComplete", DebugLevel.All);
@@ -157,13 +172,7 @@ namespace VRCSDK2
             UnityEditor.EditorApplication.isPaused = false;
             UnityEditor.EditorApplication.isPlaying = false;
             UnityEditor.EditorUtility.ClearProgressBar();
-            if (UnityEditor.EditorUtility.DisplayDialog("VRChat SDK", "Update Complete! Launch VRChat to see your uploaded content." + (null==contentUrl ? "" : "\n\nManage content at: " + contentUrl ), (null == contentUrl) ? "Okay" : "Open URL", (null == contentUrl) ? "" : "Done" ))
-            {
-                if (null!=contentUrl)
-                {
-                    Application.OpenURL(contentUrl);
-                }
-            }
+            DisplayUpdateCompletedDialog(contentUrl);
         }
 
         protected void OnSDKPipelineError(string error, string details)
@@ -199,7 +208,7 @@ namespace VRCSDK2
 
         protected void PrepareUnityPackageForS3(string packagePath, string blueprintId, int version, AssetVersion assetVersion)
         {
-            uploadUnityPackagePath = Application.temporaryCachePath + "/" + blueprintId + "_" + version.ToString() + "_" + Application.unityVersion + "_" + assetVersion.ApiVersion + "_" + API.GetAssetPlatformString() +
+            uploadUnityPackagePath = Application.temporaryCachePath + "/" + blueprintId + "_" + version.ToString() + "_" + Application.unityVersion + "_" + assetVersion.ApiVersion + "_" + VRC.Tools.Platform +
                 "_" + API.GetServerEnvironmentForApiUrl() + ".unitypackage";
             uploadUnityPackagePath.Trim();
             uploadUnityPackagePath.Replace(' ', '_');
@@ -212,7 +221,7 @@ namespace VRCSDK2
 
         protected void PrepareVRCPathForS3(string abPath, string blueprintId, int version, AssetVersion assetVersion)
         {
-            uploadVrcPath = Application.temporaryCachePath + "/" + blueprintId + "_" + version.ToString() + "_" + Application.unityVersion + "_" + assetVersion.ApiVersion + "_" + API.GetAssetPlatformString() + "_" + API.GetServerEnvironmentForApiUrl() + System.IO.Path.GetExtension(abPath);
+            uploadVrcPath = Application.temporaryCachePath + "/" + blueprintId + "_" + version.ToString() + "_" + Application.unityVersion + "_" + assetVersion.ApiVersion + "_" + VRC.Tools.Platform + "_" + API.GetServerEnvironmentForApiUrl() + System.IO.Path.GetExtension(abPath);
             uploadVrcPath.Trim();
             uploadVrcPath.Replace(' ', '_');
 
@@ -224,7 +233,7 @@ namespace VRCSDK2
 
         protected void PreparePluginPathForS3(string pluginPath, string blueprintId, int version, AssetVersion assetVersion)
         {
-            uploadPluginPath = Application.temporaryCachePath + "/" + blueprintId + "_" + version.ToString() + "_" + Application.unityVersion + "_" + assetVersion.ApiVersion + "_" + API.GetAssetPlatformString() + "_" + API.GetServerEnvironmentForApiUrl() + ".dll";
+            uploadPluginPath = Application.temporaryCachePath + "/" + blueprintId + "_" + version.ToString() + "_" + Application.unityVersion + "_" + assetVersion.ApiVersion + "_" + VRC.Tools.Platform + "_" + API.GetServerEnvironmentForApiUrl() + ".dll";
             uploadPluginPath.Trim();
             uploadPluginPath.Replace(' ', '_');
 
@@ -323,5 +332,5 @@ namespace VRCSDK2
             return !string.IsNullOrEmpty(lastBuiltID) && lastBuiltID == blueprintID;
         }
 #endif
-    }
+        }
 }

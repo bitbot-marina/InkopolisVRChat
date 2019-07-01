@@ -488,6 +488,7 @@ ModelImporter:
     100964: Background Buildings J
     100966: Background Buildings K
     100968: Background Buildings L
+    100970: Crane
     400000: Alley
     400002: Alley Fence
     400004: Amiibo
@@ -973,6 +974,7 @@ ModelImporter:
     400964: Background Buildings J
     400966: Background Buildings K
     400968: Background Buildings L
+    400970: Crane
     2100000: Stage Set A
     2100002: Stage Set B
     2100004: Arcade Cabinet (Ultra Cloyster
@@ -1621,6 +1623,7 @@ ModelImporter:
     2300888: Background Buildings J
     2300890: Background Buildings K
     2300892: Background Buildings L
+    2300894: Crane
     3300000: Alley
     3300002: Alley Fence
     3300004: Amiibo
@@ -2068,6 +2071,7 @@ ModelImporter:
     3300888: Background Buildings J
     3300890: Background Buildings K
     3300892: Background Buildings L
+    3300894: Crane
     4300000: Stage Set
     4300002: Arcade Machine (Ultra Cloyster)
     4300004: Arcade Machine (Jet Set Radio)
@@ -2519,6 +2523,7 @@ ModelImporter:
     4300896: Background Buildings L
     4300898: Background Buildings I
     4300900: Background Buildings IkaTower
+    4300902: Crane
     9500000: //RootNode
     13700000: Skybox
     13700002: Skybox (Night)

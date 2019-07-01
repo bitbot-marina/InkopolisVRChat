@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿#if UNITY_EDITOR
+using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,7 +13,6 @@ using VRC.Core.BestHTTP.JSON;
 using Debug = UnityEngine.Debug;
 using System.Text.RegularExpressions;
 
-#if UNITY_EDITOR
 namespace VRC.Core
 {
     public class ApiFileHelper : MonoBehaviour
@@ -1202,8 +1202,13 @@ namespace VRC.Core
                 onSuccess(FileOpResult.Success);
 #else
             yield return null;
-            if (onError != null)
-                onError("Not supported on ANDROID platform.");
+            //if (onError != null)
+            //    onError("Not supported on ANDROID platform.");
+
+            Debug.Log("CreateOptimizedFile: Android unsupported");
+            if (onSuccess != null)
+                onSuccess(FileOpResult.Unchanged);
+            yield break;
 #endif
         }
 
@@ -2080,4 +2085,4 @@ namespace VRC.Core
     }
 }
 
-#endif // UNITY_EDITOR
+#endif

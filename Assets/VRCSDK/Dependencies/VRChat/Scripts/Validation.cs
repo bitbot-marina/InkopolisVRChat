@@ -75,7 +75,7 @@ namespace VRCSDK2
                 GameObject child = children.Dequeue();
                 if(child == null)
                     continue;
-                
+
                 int childCount = child.transform.childCount;
                 for (int idx = 0; idx < child.transform.childCount; ++idx)
                     children.Enqueue(child.transform.GetChild(idx).gameObject);
@@ -211,6 +211,75 @@ namespace VRCSDK2
                 Debug.LogWarningFormat("Removing {0} comp from {1}", comp.GetType().Name, comp.gameObject.name);
 
                 RemoveComponent(comp);
+            }
+        }
+
+        public static void ForEachComponentOfType<T>(GameObject target, System.Action<T> action) where T : Component
+        {
+            if (target == null || action == null)
+                return;
+
+            foreach (T comp in target.GetComponentsInChildren<T>(true))
+            {
+                if (comp == null || comp.gameObject == null)
+                    continue;
+
+                action(comp);
+            }
+        }
+
+        public static IEnumerable<Shader> FindIllegalShaders(GameObject target, string[] whitelist)
+        {
+            List<Shader> bad = new List<Shader>();
+            IEnumerator seeker = FindIllegalShadersEnumerator(target, whitelist, (c) => bad.Add(c));
+            while (seeker.MoveNext()) ;
+            return bad;
+        }
+
+        public static IEnumerator FindIllegalShadersEnumerator(GameObject target, string[] whitelist, System.Action<Shader> onFound, bool useWatch = false)
+        {
+            System.Diagnostics.Stopwatch watch = new System.Diagnostics.Stopwatch();
+            if(useWatch)
+                watch.Start();
+
+            List<Material> materialCache = new List<Material>();
+            Queue<GameObject> children = new Queue<GameObject>();
+            children.Enqueue(target.gameObject);
+            while (children.Count > 0)
+            {
+                GameObject child = children.Dequeue();
+                if(child == null)
+                    continue;
+
+                int childCount = child.transform.childCount;
+                for (int idx = 0; idx < child.transform.childCount; ++idx)
+                    children.Enqueue(child.transform.GetChild(idx).gameObject);
+
+                foreach (Renderer r in child.transform.GetComponents<Renderer>())
+                {
+                    if (r == null)
+                        continue;
+
+                    foreach (Material m in r.sharedMaterials)
+                    {
+                        if (materialCache.Any(cacheMtl => m == cacheMtl)) // did we already look at this one?
+                            continue;
+
+                        if (!whitelist.Any(okayShaderName => m.shader.name == okayShaderName))
+                        {
+                            onFound(m.shader);
+                            yield return null;
+                        }
+
+                        materialCache.Add(m);
+                    }
+
+                    if (useWatch && watch.ElapsedMilliseconds > 1)
+                    {
+                        yield return null;
+                        watch.Reset();
+                    }
+                }
             }
         }
     }

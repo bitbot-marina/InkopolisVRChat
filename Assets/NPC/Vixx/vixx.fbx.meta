@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: a8d345bbc75907147ae05bf301ef4ead
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bip_Front1_0005
+    100004: Bip_Front2_0005
+    100006: Bip_Hair1_L_0005
+    100008: Bip_Hair1_R_0005
+    100010: Bip_Hair2_L_0005
+    100012: Bip_Hair2_R_0005
+    100014: Bip_Hair3_L_0005
+    100016: Bip_Hair3_R_0005
+    100018: Bip_Hair4_L_0005
+    100020: Bip_Hair4_R_0005
+    100022: Bip_Nape1_0005
+    100024: Bip_Nape2_0005
+    100026: Body
+    100028: Chest
+    100030: EarL
+    100032: EarR
+    100034: Eye_L
+    100036: Eye_R
+    100038: Hair_Tentacles_Back1
+    100040: Hair_Tentacles_Back10
+    100042: Hair_Tentacles_Back12
+    100044: Hair_Tentacles_Back2
+    100046: Hair_Tentacles_Back3
+    100048: Hair_Tentacles_Back4
+    100050: Hair_Tentacles_Back5
+    100052: Hair_Tentacles_Back6
+    100054: Hair_Tentacles_Back7
+    100056: Hair_Tentacles_Back8
+    100058: Hair_Tentacles_Back9
+    100060: Head
+    100062: Hips
+    100064: IndexFinger1_L
+    100066: IndexFinger1_R
+    100068: IndexFinger2_L
+    100070: IndexFinger2_R
+    100072: Left ankle
+    100074: Left arm
+    100076: Left elbow
+    100078: Left knee
+    100080: Left leg
+    100082: Left leg 2
+    100084: Left shoulder
+    100086: Left toe
+    100088: Left wrist
+    100090: LeftEye
+    100092: LittleFinger1_L
+    100094: LittleFinger1_R
+    100096: LittleFinger2_L
+    100098: LittleFinger2_R
+    100100: MiddleFinger1_L
+    100102: MiddleFinger1_R
+    100104: MiddleFinger2_L
+    100106: MiddleFinger2_R
+    100108: Neck
+    100110: Right ankle
+    100112: Right arm
+    100114: Right elbow
+    100116: Right knee
+    100118: Right leg
+    100120: Right leg 2
+    100122: Right shoulder
+    100124: Right toe
+    100126: Right wrist
+    100128: RightEye
+    100130: RingFinger1_L
+    100132: RingFinger1_R
+    100134: RingFinger2_L
+    100136: RingFinger2_R
+    100138: Spine
+    100140: TeethDOWN
+    100142: TeethUP
+    100144: Thumb0_L
+    100146: Thumb0_R
+    100148: Thumb1_L
+    100150: Thumb1_R
+    100152: Thumb2_L
+    100154: Thumb2_R
+    100156: //RootNode
+    400000: Armature
+    400002: Bip_Front1_0005
+    400004: Bip_Front2_0005
+    400006: Bip_Hair1_L_0005
+    400008: Bip_Hair1_R_0005
+    400010: Bip_Hair2_L_0005
+    400012: Bip_Hair2_R_0005
+    400014: Bip_Hair3_L_0005
+    400016: Bip_Hair3_R_0005
+    400018: Bip_Hair4_L_0005
+    400020: Bip_Hair4_R_0005
+    400022: Bip_Nape1_0005
+    400024: Bip_Nape2_0005
+    400026: Body
+    400028: Chest
+    400030: EarL
+    400032: EarR
+    400034: Eye_L
+    400036: Eye_R
+    400038: Hair_Tentacles_Back1
+    400040: Hair_Tentacles_Back10
+    400042: Hair_Tentacles_Back12
+    400044: Hair_Tentacles_Back2
+    400046: Hair_Tentacles_Back3
+    400048: Hair_Tentacles_Back4
+    400050: Hair_Tentacles_Back5
+    400052: Hair_Tentacles_Back6
+    400054: Hair_Tentacles_Back7
+    400056: Hair_Tentacles_Back8
+    400058: Hair_Tentacles_Back9
+    400060: Head
+    400062: Hips
+    400064: IndexFinger1_L
+    400066: IndexFinger1_R
+    400068: IndexFinger2_L
+    400070: IndexFinger2_R
+    400072: Left ankle
+    400074: Left arm
+    400076: Left elbow
+    400078: Left knee
+    400080: Left leg
+    400082: Left leg 2
+    400084: Left shoulder
+    400086: Left toe
+    400088: Left wrist
+    400090: LeftEye
+    400092: LittleFinger1_L
+    400094: LittleFinger1_R
+    400096: LittleFinger2_L
+    400098: LittleFinger2_R
+    400100: MiddleFinger1_L
+    400102: MiddleFinger1_R
+    400104: MiddleFinger2_L
+    400106: MiddleFinger2_R
+    400108: Neck
+    400110: Right ankle
+    400112: Right arm
+    400114: Right elbow
+    400116: Right knee
+    400118: Right leg
+    400120: Right leg 2
+    400122: Right shoulder
+    400124: Right toe
+    400126: Right wrist
+    400128: RightEye
+    400130: RingFinger1_L
+    400132: RingFinger1_R
+    400134: RingFinger2_L
+    400136: RingFinger2_R
+    400138: Spine
+    400140: TeethDOWN
+    400142: TeethUP
+    400144: Thumb0_L
+    400146: Thumb0_R
+    400148: Thumb1_L
+    400150: Thumb1_R
+    400152: Thumb2_L
+    400154: Thumb2_R
+    400156: //RootNode
+    2100000: Hair
+    2100002: Details
+    2100004: Bodyt
+    2100006: Pant
+    2100008: Jacket
+    2100010: Boots
+    2100012: Horn
+    2100014: Face Markings
+    4300000: Body
+    9500000: //RootNode
+    13700000: Body
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

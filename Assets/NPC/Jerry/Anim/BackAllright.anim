@@ -1,0 +1,7 @@
+animVersion 1.1;
+mayaVersion 2015;
+timeUnit ntscf;
+linearUnit cm;
+angularUnit deg;
+startTime 1;
+endTime 360;

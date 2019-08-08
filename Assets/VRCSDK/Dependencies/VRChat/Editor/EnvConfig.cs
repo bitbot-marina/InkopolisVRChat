@@ -7,6 +7,7 @@ using System;
 using System.Reflection;
 using System.Linq;
 using UnityEngine.Rendering;
+using VRCSDK2;
 
 /// <summary>
 /// Setup up SDK env on editor launch
@@ -185,6 +186,8 @@ public class EnvConfig
             VRC.Core.RemoteConfig.Init();
         }
 
+        LoadEditorResources();
+
         return true;
     }
 
@@ -277,6 +280,7 @@ public class EnvConfig
 
         SetDefaultGraphicsAPIs();
         SetGraphicsSettings();
+        SetAudioSettings();
         SetPlayerSettings();
 
 #if VRC_CLIENT
@@ -394,11 +398,24 @@ public class EnvConfig
 
                 if (property != null && property.name == "m_Devices")
                 {
-                    property.ClearArray();
-                    property.arraySize = (sdkNames != null) ? sdkNames.Length : 0;
-                    for (int j = 0; j < property.arraySize; j++)
+                    bool overwrite = true;
+                    if (property.arraySize == sdkNames.Length)
                     {
-                        property.GetArrayElementAtIndex(j).stringValue = sdkNames[j];
+                        overwrite = false;
+                        for (int e = 0; e < sdkNames.Length; ++e)
+                        {
+                            if (property.GetArrayElementAtIndex(e).stringValue != sdkNames[e])
+                                overwrite = true;
+                        }
+                    }
+                    if (overwrite)
+                    {
+                        property.ClearArray();
+                        property.arraySize = (sdkNames != null) ? sdkNames.Length : 0;
+                        for (int j = 0; j < property.arraySize; j++)
+                        {
+                            property.GetArrayElementAtIndex(j).stringValue = sdkNames[j];
+                        }
                     }
                 }
             }
@@ -604,13 +621,32 @@ public class EnvConfig
 
         graphicsManager.ApplyModifiedProperties();
     }
+    
+    static void SetAudioSettings()
+    {
+        var config = AudioSettings.GetConfiguration();
+        config.dspBufferSize = 0; // use default
+        config.speakerMode = AudioSpeakerMode.Stereo; // use default
+        config.sampleRate = 0; // use default
+        if (EditorUserBuildSettings.selectedBuildTargetGroup == BuildTargetGroup.Android)
+        {
+            config.numRealVoices = 24;
+            config.numVirtualVoices = 24;
+        }
+        else
+        {
+            config.numRealVoices = 32;
+            config.numVirtualVoices = 63;
+        }
+        AudioSettings.Reset(config);
+    }
 
     static void SetPlayerSettings()
     {
         // asset bundles MUST be built with settings that are compatible with VRC client
-        #if VRC_OVERRIDE_COLORSPACE_GAMMA
+#if VRC_OVERRIDE_COLORSPACE_GAMMA
             PlayerSettings.colorSpace = ColorSpace.Gamma;
-        #else
+#else
             PlayerSettings.colorSpace = ColorSpace.Linear;
 #endif
 
@@ -643,5 +679,10 @@ public class EnvConfig
 #pragma warning restore CS0618 // Type or member is obsolete
         }
 #endif
+    }
+
+    private static void LoadEditorResources()
+    {
+        AvatarPerformanceStats.Initialize();
     }
 }

@@ -478,6 +478,7 @@ ModelImporter:
     100944: Background_Buildings_K
     100946: Background_Buildings_L
     100948: Crane
+    100950: Splatfest_Booth
     400000: Alley
     400002: Alley_Fence
     400004: Amiibo
@@ -953,6 +954,7 @@ ModelImporter:
     400944: Background_Buildings_K
     400946: Background_Buildings_L
     400948: Crane
+    400950: Splatfest_Booth
     2100000: Stage_Set_A__StageObj_Alb_png
     2100002: Stage_Set_B__StageObj2_Alb_png
     2100004: Arcade_Cabinet__Ultra_Cloyster
@@ -1167,6 +1169,8 @@ ModelImporter:
     2100422: Stage_Color_Lights__Obj_PlazaStage_Alb_2_png
     2100424: Stage_Panel_Lights__Obj_PlazaStage_Alb_2_png
     2100426: Stage_Structure_Bottom__Obj_PlazaStage_Alb_2_png_001
+    2100428: Selfie_Board__Bitmaptexture_006
+    2100430: Poster_Set_A__NukiSet_Alb_png
     2300000: Alley
     2300002: Alley_Fence
     2300004: Amiibo
@@ -1616,6 +1620,7 @@ ModelImporter:
     2300892: Background_Buildings_K
     2300894: Background_Buildings_L
     2300896: Crane
+    2300898: Splatfest_Booth
     3300000: Alley
     3300002: Alley_Fence
     3300004: Amiibo
@@ -2065,6 +2070,7 @@ ModelImporter:
     3300892: Background_Buildings_K
     3300894: Background_Buildings_L
     3300896: Crane
+    3300898: Splatfest_Booth
     4300000: Stage_Set
     4300002: Arcade_Machine__Ultra_Cloyster_
     4300004: Arcade_Machine__Jet_Set_Radio_
@@ -2518,6 +2524,7 @@ ModelImporter:
     4300900: Background_Buildings_I
     4300902: Background_Buildings_IkaTower
     4300904: Crane
+    4300906: Splatfest_Booth
     7400000: Default Take
     9500000: //RootNode
     13700000: Skybox

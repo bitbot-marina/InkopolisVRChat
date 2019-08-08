@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 66ccafa602d00ba4bace560621450f9c
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: arm0_L0
+    100002: arm0_R
+    100004: arm1_L
+    100006: arm1_R
+    100008: arm2_L
+    100010: arm2_R
+    100012: body__Jerr
+    100014: body__M_Je
+    100016: head
+    100018: hip
+    100020: //RootNode
+    100022: leg0_LB
+    100024: leg1_LB
+    100026: neck
+    100028: skl_root
+    100030: spine
+    400000: arm0_L0
+    400002: arm0_R
+    400004: arm1_L
+    400006: arm1_R
+    400008: arm2_L
+    400010: arm2_R
+    400012: body__Jerr
+    400014: body__M_Je
+    400016: head
+    400018: hip
+    400020: //RootNode
+    400022: leg0_LB
+    400024: leg1_LB
+    400026: neck
+    400028: skl_root
+    400030: spine
+    2100000: Jerrybody00
+    2100002: M_JerryTshirt
+    2300000: arm0_L0
+    2300002: arm0_R
+    2300004: arm1_L
+    2300006: arm1_R
+    2300008: arm2_L
+    2300010: arm2_R
+    2300012: body__Jerr
+    2300014: body__M_Je
+    2300016: head
+    2300018: hip
+    2300020: leg0_LB
+    2300022: leg1_LB
+    2300024: neck
+    2300026: skl_root
+    2300028: spine
+    3300000: arm0_L0
+    3300002: arm0_R
+    3300004: arm1_L
+    3300006: arm1_R
+    3300008: arm2_L
+    3300010: arm2_R
+    3300012: body__Jerr
+    3300014: body__M_Je
+    3300016: head
+    3300018: hip
+    3300020: leg0_LB
+    3300022: leg1_LB
+    3300024: neck
+    3300026: skl_root
+    3300028: spine
+    4300000: skl_root
+    4300002: hip
+    4300004: leg0_LB
+    4300006: leg1_LB
+    4300008: spine
+    4300010: arm0_L0
+    4300012: arm1_L
+    4300014: arm2_L
+    4300016: arm0_R
+    4300018: arm1_R
+    4300020: arm2_R
+    4300022: neck
+    4300024: head
+    4300026: body__Jerr
+    4300028: body__M_Je
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
